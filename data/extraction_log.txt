@@ -1,0 +1,17 @@
+=== Début de l'extraction (2025-02-24 11:27:19) ===
+🔍 11 fichiers PDF trouvés, début de l'extraction...
+✅ data/input/A5/IFRESI_031.pdf → data/output/A5/IFRESI_031.txt
+✅ data/input/A5/IFRESI_034.pdf → data/output/A5/IFRESI_034.txt
+✅ data/input/A5/IFRESI_029.pdf → data/output/A5/IFRESI_029.txt
+✅ data/input/A5/IFRESI_033.pdf → data/output/A5/IFRESI_033.txt
+✅ data/input/A5/IFRESI_032.pdf → data/output/A5/IFRESI_032.txt
+✅ data/input/A5/IFRESI_030.pdf → data/output/A5/IFRESI_030.txt
+✅ data/input/A6/IFRESI_038.pdf → data/output/A6/IFRESI_038.txt
+✅ data/input/A6/IFRESI_036.pdf → data/output/A6/IFRESI_036.txt
+✅ data/input/A6/IFRESI_035.pdf → data/output/A6/IFRESI_035.txt
+✅ data/input/A6/IFRESI_037.pdf → data/output/A6/IFRESI_037.txt
+✅ data/input/A8/IFRESI_040.pdf → data/output/A8/IFRESI_040.txt
+
+🎉 Extraction terminée ! Textes enregistrés dans data/output
+📄 11 fichiers extraits avec succès.
+⚠️ 0 erreurs rencontrées.

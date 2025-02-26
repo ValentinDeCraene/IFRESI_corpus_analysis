@@ -1,0 +1,2458 @@
+CENTRE NATIONAL
+DE LA RECHERCHE SCIENTIFIQUE UNIVERSITES DU NORD-PAS DE CALAIS
+INSTITUT FEDERA TIF
+DE RECHERCHE SUR LES ECONOMIES
+ET LES SOCIETES INDUSTRIELLES
+(I.F .R.E.S.I.)
+PROGRAMME SCIENTIFIQUE 1986-1987
+CENTRE NATIONAL DE LA RECHERCHE UNIVERSITES DU NORD-PAS DE CALAIS
+SCIENTIFIQUE
+INSTITUT FEDERATIF DE RECHERCHE SUR LES ECONOMIES ET
+LES SOCIETES INDUSTRIELLES
+<r.F.R.E.s.r.)
+PROGRAMME SCIENTIFIQUE 1986-1987
+Formations constitutives
+Centre Lillois de Recherches Sociologiques et UniversitE de Lille !/CNRS (UA 345)
+Econoaiques (C.L.E.R.S.E.)
+Centre de Recherches Adainistratives, Politiques Université de Lille II/CNRS (UA gs2)
+et Sociales (C.R.A.P.S.)
+Centre de Recherches sur l1Alleaagne conteoporaine Université de Valenciennes
+Econoaie de la Firae, Vie des Firaes en longue Université de Lille !/CNRS (UA g35)
+pEriode
+Croissance et Développeaent dans le Nord de la Université de Lille Ill/CNRS (UA 1020)
+France
+Laboratoire de Géographie Huaaine Université de Lille I
+Laboratoire de Recherches Econoaiques et FEdération Universitaire et Polytechnique de
+Sociales (L.A.B.O.R.E.S.) Lille/CNRS (UA 362)
+- l -
+SOMMAIRE
+PRESENTATION ••••••••••••••••••.•••••••.•.••••••••.••••••••••••.•• p. 3
+1. INTRODUCTION DES TECHNOLOGIES NOUVELLES ET ENTREPRISES •••••••• p. 5
+l . l . Innovation - Informatisation - Entreprise :
+l'impact du Réseau Régional de CAO-CFAO dans
+des P.M.E. du Nord-Pas de Calais •••••••••••.•••••.••......••.•. p. 5
+l. 2. Stratégies d'innovation des P.M.I.-P.M.E. et
+réseaux de transferts technologiques ••••••••••••••••••••••••.•• p. 9
+l. 3. Une analyse comparative des modes de développement
+et de localisation d'industries à haute technologie
+en France et au Royaume-Uni ••••.•.•••.•••.•••••••.••••.•••••••• p.ll
+~.4. Les ouvriers qualifiés, les agents de maitrise et les
+techniciens de production dans les industries en cours
+d'automatisation: comparaison P.M.I./grande entreprise •.••.•.• p.l4
+2. PRODUCTION DE LA FORMATION DANS ET PAR L'ENTREPRISE ••..•••.•.• p.l9
+3. STRATEGIES DES FIRMES EN PERIODE DE MUTATIONS •••••••.•••..•••• p. 25
+3. l. Flexibilité et restructurations .•..•..•....••.•••.•••••••.•.••• P·25
+3.2. Le rôle des structures institutionnelles dans les
+politiques des firmes .••••••••..••••••...•.•••••••••••.•••.•••. P·30
+4. VIE ECONOMIQUE ET CHANGEMENT SOCIAL : UNE APPROCHE
+PLURIDIMENSIONNELLE DANS DEUX BASSINS D'EMPLOI ••..•.••••••••.• p.35
+S. POLITIQUES GOUVERNEMENTALES ET ENTREPRISES PUBLIQUES :
+L'EXEMPLE DE LA POLITIQUE DE RECESSION CHARBONNIERE •.•.•••.•.• p. 51
+6. AGRICULTURE, INDUSTRIE, SERVICES : MUTATIONS SOCIO
+ECONOMIQUES ET DYNAMIQUE DES SECTEURS .•••••••••••.•••.••.•••.• p. 55
+6. l. L'évolution des emplois dans les régions depuis
+la crise •••.•••••••••••••••••.••.••••••••••.•••.• ···· ••••• •••·• p. 55
+6.2. La situation comparée des économies des Etats-Unis
+et de la France dans la division internationale
+des services •••••...••.••••••••••.•.•••• • • •••• • •• • • • • · • • • . • • · • • P·59
+7. LA DYNAMIQUE DES POPULATIONS DES PAYS INDUSTRIALISES :
+LE CAS DE L'EUROPE DU NORD-OUEST .••.•••.••••••••.••••••••••••. p. 65
+8. CENTRE D'HISTOIRE DES ENTREPRISES DU NORD-PAS DE CALAIS ••.•... p. 71
+9. PROJET DE CONSTITUTION D'UNE BANQUE DE DONNEES SUR LES
+INGENIEURS .•..•....••.•...................•••..•••••••..•.•... p.81
+10. CREATION D'UN GROUPE DE RECHERCHE "LIAISC>N FIXE TRANSMANCHE ••. p.89
+- 3 -
+P R É S E N T A T I 0 N
+Le projet scientifique de l'I.F.R.E.S.I., mis au point en Juin 1985,
+se fondait sur un inventaire réaliste des orientations de recherche des
+formations constitutives, et sur la vérification de leur cohérence. Le
+présent programme, opérationnalisation du projet initial, s'inscrit dans
+la même logique. Il correspond à l'étape actuellement atteinte dans la
+structuration de la communauté de recherche que l'Institut a mission de
+promouvoir.
+On s'était fixé un premier objectif : choisir un certain nombre
+d'opérations programmées par les diverses équipes à partir de leurs
+forces et de leurs démarches propres, mais conçues également dans la
+perspective de la création de l'I.F.R.E.S.I., à laquelle elles avaient
+contribuée activement. La majorité des opérations ici décrites correspond
+à ce cas de figure. Mais on a pu aller au-delà de cet objectif minimum :
+plus rapidement que nous le pensions, un certain nombre d'opérations ont
+été montées par des chercheurs et équipes relevant de plusieurs formations
+et disciplines. L'ensemble témoigne de la dynamique induite par un
+Institut qui n'a, officiellement, que quelques mois d'existence.
+On s'est interdit dans la présentation tout rapprochement forcé ou
+artificiel. Lorsque plusieurs opérations figurent sous la même rubrique,
+c'est soit en raison de la communauté d'objet et des relations effectives
+qu' entretiennent les chercheurs, sQit parce que les thèmes abordés sont
+voisins et que les équipes concernées sont convenues d'échanger entre elles
+résultats et expériences. De ce fait, le tableau qui suit ne donne pas
+une idée exacte des interactions existant entre équipes et chercheurs.
+(1) -Pour chaque opération, figure è la suite du titre lR sigle (ou les
+sigles) des formations impliquées. Lorsqu'une formation est elle
+même constituée d'équipes i.ndividualisées, le sigle de 1' équipe
+est indiqué en premier,suivi de celui de sa formation d'appartenance.
+- 4 -
+Reste que, selon les opérations ou ensembles d'opérations, ces inter
+actions sont d'intensité inégale. Le présent affichage constitue un moyen,
+parmi d'autres, de franchir des pas suv~lementaires et de promouvoir
+de nouvelles coopérations.
+On observera que, d'ores et déjà, des chercheurs n'appartenant pas aux
+formations constitutives sont partie prenante de certaines opérations.
+Aussi bien ce programme ne constitue-t-il en aucun cas un ensemble clos.
+A mesure de l'achèvement des travaux en cours, d'autres capacités de
+recherche viendront s'adjoindre à celles d'ores et déjà engagées.
+De nouvelles initiatives sont ainsi en préparation sur des thèmes aussi
+divers que les politiques sociales, par exemple, ou l'évolution des
+nomenclatures socio-professionnelles. Encore moins l'inscription dans
+l'actuel programme de l'I.F.R.E.S.I. correspond-elle à un partage à
+due proportion des moyens propres de l'Institut. Ceux-ci devront au
+contraire être concentrés pour aider au démarrage ou au soutien d'un
+nombre restreint d'opérations choisies d'un commun accord. On s'attachera
+prioritairement à favoriser contacts, rencontres et échanges, et à
+développer la valorisation de la recherche et de ses résultats.
+Tout commentaire additionnel de ce programme serait superflu. Souli
+gnons seulement la place, non point exclusive, mais particulièrement
+significative qu'y occupe l'entreprise, dans la multiplicité de ses
+dimensions et de ses interactions avec son environnement. Relevons aussi
+le début d'affirmation d'une pluridisciplinarité véritable, l'importance
+accordée à la comparaison internationale, les liens nouveaux tissés avec
+des disciplines "lourdes" (telles que les sciences physiques pour
+l'ingénieur), la coexistence de l'ambition théorique, de l'investigation
+empirique, et du souci de relations étroites avec les acteurs et parte
+naires, notamment régionaux. Par delà l'inévitable et légitime diversité
+des approches et des référents théoriques, cette posture scientifique
+partagée laisse bien augurer de l'avenir d'une coopération que nous nous
+sommes engagés à renforcer et enrichir.
+20 Juin 1986
+- 5 -
+1. INTRODUCTION DES TECHNOLOGIES NOUVELLES ET ENTREPRISES
+C.L.E.R.S.E. {UA 345, CNRS/LILLE I)
+Très proches les unes des autres par l'interrogation globale qui
+les sous-tend, les quatre opérations ici présentées n'en demeurent pas
+moins distinctes, tant par l'angle d'attaque choisi que par la dimension
+qu'elles privilégient comme objet d'étude~ Elles sont néanmoins en forte
+interaction, favorisée par la participation des chercheurs concernés au
+séminaire Mutations de la Production, Analyses Economiques et Sociolo
+giques animé au sein du CLERSE par Claude DUBAR et Patrice GREVET. Le
+même type de relations unit ces opérations à celle décrite au point 2
+("Production de la formation dans et par l'entreprise"), que l'on a néan
+moins présentée à part du fait tant de sa spécificité que du réseau
+d'équipes dont elle est partie prenante.
+1.1. INNOVATION - INFORMATISATION - ENTREPRISE : l'im:9act du
+du Réseau Régional de CAO-CFAO dans des P.M.E. du Nord-Pas de Calais.
+L.A.S.T.R.E.E. - C.L.E.R.S.E
+Christian MAHIEU, Chargé de Recherche (Sociologie) au C.N.R.S.
+Objet, problématique et hypothèses
+Cette recherche s'inscrit dans un ensemble de travaux portant sur les
+processus d'informatisation-automatisation des entreprises. Jusqu'à ce jour
+ces travaux n'ont que peu concerné les technologies génératives spécifiques
+que sont la CAO (conception assistée par ordinateur) et la CFAO (conception
+fabrication assistées par ordinateur). Lorsque cela a été le cas il s'est
+- 6 -
+agi des grandes entreprises pour lesquelles ces technologies ont été
+conçues au départ.
+Aussi l'introduction de la CAD-CFAO dans les P.M.E. fournit-elle l'occasion
+d'une amélioration notable des connaissances sur les processus d'infor
+matisation des P.M.E. L'instauration d'un Réseau Régional de CAO-CFAO,
+à l'initiative de divers acteurs dans la région Nord-Pas de Calais, doit
+permettre de faciliter cette informatisation (1). On se propose donc
+d'analyser les modalités d'introduction de l'innovation dans un échantil-
+lon de P.M.I. de la région Nord-Pas de Calais destinées à être connectées
+au réseau.
+Du fait de l'originalité de ce Réseau et de ses divers composants,
+ce seront en effet de nouveaux liens qui s'instaureront entre entreprises,
+(entre P.M.E. surtout mais aussi entre une grande entreprise et ses
+sous-traitants), tout comme entre des établissements de Recherche et des
+P.M.E.
+Il importera donc d'envisager la structuration et les modes de fonc
+tionnement du véritable noyau innovateur constitué à cette occasion.
+S'agissant plus spécifiquement des P.M.E. elles-mêmes, il s'agira
+moins d'étudier les conséquences de l'exploitation par ces entreprises de
+nouveaux équipements de CAO, récemment implantés en leur sein, que de
+s'interroger, à l'occasion de ce qui constitue pour elles les démarches
+initiales de leur informatisation future, sur leurs capacités d'antici
+pation face à des technologies intégratives, compte tenu de leur structu
+ration actuelle.
+L'interrogation portera en effet sur les conditions spécifiques de
+mobilisation des savoir-faire innovatifs, et de transformations projetées
+en ce qui concerne la mise en oeuvre d'une nouvelle régulation fonction-
+(1] - Réseau financé conjointement par la reglon Nord-Pas de Calais, le
+Ministère de la Recherche et l'Agence pour le Développement de
+l'Informatique (A.D.I.). Y sont associés l'Université des Sciences et
+Techniques de Lille (Lille Il, l'Université de Valenciennes-Hainaut
+Cambrésis, l'I.D.N., l'E.N.S.A.M., l'I.C.A.M., l'E.N.S.T.M.L.D., la
+D.R.I.R. (Direction Régionale de l'Industrie et de la Recherche),
+le D.R.R.T. (Délégué à la Recherche et à la Technologie), le C.I.S,E,,
+le C.R.C.I., l'A.D.I., l'A.D.E.P.A. (Agence pour le Développement de
+la Productique appliquée à l'Industrie), la région Nord-Pas de Calais,
+la Française de Mécanique, la Maison des Entreprises et des Techno
+logies Nouvelles.
+- 7 -
+nelle de l'entreprise, notamment compte tenu du caractère évolutif et
+interactif des projets d'informatisation (vers la CFAO, voire la GPAO •.• ).
+Seront également envisagés les rapports institués entre les stratégies
+d'informatisation et l'explicitation des enjeux économiques sous-jacents,
+notamment par l'initiation de nouveaux dispositifs d'évaluation. Enfin,
+il nous faudra analyser les modalités mêmes du changement social dans
+ces entreprises.
+En bref, il convient d'associer dans une même démarche :
+l'analyse de la mise en oeuvre de l'intégration informatisée dans l'entre
+prise ;
+- l'analyse de l'évolution des rapports inter-entreprises ;
+- l'analyse des modalités de l'innovation et de l'intervention des noyaux
+innovateurs internes et externes dans ces processus.
+Méthodes utilisées
+La démarche consistera principalement en une recherche-évaluation socio
+logique et micro-économique des modalités d'introduction de la CAO dans
+des P.M.E. de la région Nord-Pas de Calais.
+Pour ce faire, seront utilisées deux approches méthodologiques complé
+mentaires. D'une part une enquête "extensive" sera menée systématiquement
+auprès des entreprises concernées. La grille d'évaluation utilisée compren
+dra pour une part un questionnaire fermé.
+D'autre part, dans la continuité d'opérations de recherche antérieures
+(en particulier une enquête de deux mois à plein temps dans une unité de
+fabrication informatisée), une analyse plus intensive sera menée dans
+plusieurs de ces entreprises. Les méthodes seront davantage qualitatives
+et impliqueront des observations nombreuses, voire une présence à temps
+plein, sur une période suffisamment longue de façon à saisir les projets,
+les mutations, les réorganisations expérimentales et les systèmes d'évalua
+tion. La démarche consistera alors non seulement en une observation des
+différents acteurs, mais aussi en une "participation-exulici tatien-évaluation"
+- 8 -
+du changement lui-même en collaboration avec les acteurs de l'entreprise.
+Suivant le degré de réceptivité des différentes entreprises et de leur
+implication dans une démarche stratégique programmée, différentes méthodo
+logies plus ou moins formalisées pourront être mises en oeuvre [1).
+Calendrier
+La recherche a démarré en Mars 1986. Le financement devrait être
+obtenu définitivement en Juin 1986. La recherche se déroulera sur deux
+années.
+Collaborations
+- Réseau Régional CAO-CFAO ;
+Coopération avec les laboratoires concernés (U.S.T.L., I.D.N.,
+E.N.S.A.M., I.C.A.M., Ecole des Mines de Douai), et notamment
+l'U.A. n" 1118 (CNRS/Université de Valenciennes)
+Coopération avec les chercheurs engagés dans le programme AMES
+(responsable : Professeur Yves BOUCHUT, CNRS/Lyon) et plus particu
+lièrement avec le groupe sur l'automatisation et l'organisation du
+travail (Michel BERRY, Directeur de Recherche au Centre de Recherche
+en Gestion de l'Ecole Polytechnique), ainsi qu'avec J.P. POITOU
+(CNRS/Université de Provence).
+Organismes impliqués
+Soutiens de la D.V.A.R. (CNRS) et de l'A.D.E.P.A., financement
+par :
+- le P.I.R.T.T.E.M. (Programme Inter-disciplinaire de Recherche sur le
+Travail, la Technologie, l'Emploi et les Modes de Vie) (CNRS).
+[1) - Cf la collaboration, au sein du Réseau, avec les Ingénieurs.
+- 9 -
+1.2. STRATÉGIES D1INNOVATION DES P.M.I.-P.M.E. ET RESEAUX DE
+TRANSFERTS TECHNOLOGIQUES
+L.A.S.T./L.A.S.T.R.E.E. - C.L.E.R.S.E.
+Martine DELPIERRE, Ingénieur d'Etudes (Science du politique) à
+l'Université de Lille II (LAST-CLERSE).
+Christian MAHIEU, Chargé de Recherche au C.N.R.S. (LASTREE-CLERSE).
+Objectif
+Expliciter certains blocages que rencontre une majorité de P.M.E. face
+à l'automatisation intégrée de production. Seront isoléP.s les difficultés
+à dégager une vision stratégique et prospective dans l'entreprise et
+celles qui incombent à l'activité des réseaux de transferts de technologies.
+Problématique
+L'activité de transfert de technologies s'exerce de manière très
+contrastée à l'égard des entreprises. Les plus importantes d'entre elles
+n'ont aucune difficulté majeu~de dialogue avec le Pôle Productique de la
+région Nord-Pas de Calais. Les P.M.E. -hormis celles, peu nombreuses,
+présentées comme modèles- restent davantage imperméables aux sollicitations
+du Pôle, ou hors de sa portée. Certaines explications sont d'ores et déjà
+avancées, qui insistent sur la jeunesse du Pôle, sur la précarité de ces
+P.M.E., l'ambiguité des relations inter-industrielles dans lesquelles
+elles sont insérées. Mais des raisons plus fondamentales existent, qui
+relèvent de l'adéquation entre "offre" et "demande" d'automatisation inté
+grée de production, et que l'on peut saisir à travers la confrontation
+entre d'une part l'attitude et les stratégies des P.M.E. et d'autre part
+les comportements et sollicitations des acteurs contribuant à formaliser
+les opérations de transfert de technologies.
+- 10 -
+Programme des travaux
+Exploitation des enquêtes effectuées par différents organismes auprès
+des P.M.E. en spécifiant les données concernant le Nord-Pas de Calais.
+Réalisation d'une enquête auprès des P.M.E. de la région Nord-Pas de
+Calais non encore contactées par un quelconque dispositif de transfert
+ou qui, étant contactées, n'ont pas donné suite.
+Poursuite et approfondissement d'une enquête auprès des réseaux de
+transfert de technologies ainsi que des structures intervenant au niveau
+de la formulation des besoins des entreprises en matière d'automatisation
+intégrée de production.
+Ces travaux se dérouleront en trois phases
+- Une phase de constitution des sous échantillons et d'analyse des
+opérations engagées par les réseaux ;
+- Une phase d'enquête en entreprise basée sur une grille d'évaluation ;
+Une phase de mise au point de propositions de structures et de forma
+lisation méthodologique notamment en ce qui concerne les processus
+d'élaboration des projets d'entreprise.
+Durée de la recherche 24 mois.
+Liens avec les laboratoires CNRS du secteur Sciences physiques pour
+l'Ingénieur (S.P. I.) et le Pôle Productique Nord-Pas de Calais
+Cette recherche est directement suscitée par la demande des laboratoires
+S.P.I. de la région Nord-Pas de Calais :
+- 11 -
+1 'unité associée au CNRS 370 "Automatique et système homme-machine"
+animée par Pierre VIDAL et Christian VASSEUR,
+Université des Sciences et Techniques de Lille Flandres Artois.
+l'unité associée au CNRS 1118-URIAH- "Informatique automatique
+humaine" animée par Noël MALVACHE et René SOENEN,
+Université de Valenciennes et du Haut-Cambrésis.
+Ces laboratoires constitueront un point d'appui et un support permanents.
+Cette liaison ainsi que l'insertion de la recherche au sein du Pôle
+Productique se concrétiseront par la constitution d'un Comité du Suivi
+regroupant les responsables des trois établissements constitutifs du
+Pôle Productique Nord-Pas de Calais (Université des Sciences et Techniques
+de Lille, l'Université de Valenciennes et l'Ecole Nationale Supérieure des
+Techniques Industrielles et des Mines de Douai - M. GRATEPANCHE-) et
+permettant, par le développement des collaborations et des échanges,
+l'approfondissement de l'analyse pluridisciplinaire des mutations des
+systèmes de production.
+1.3. UNE ANALYSE COMPARATIVE DES MODES DE DËVELOPPEMENT ET DE
+LOCALISATION D'INDUSTRIES À HAUTE TECHNOLOGIE EN FRANCE
+ET AU ROYAUME-UNI
+L.A.S.T. - C.L.E.R.S.E.
+Patrice GREVET et Olivier WEINSTEIN, Professeurs (Science Economique),
+Lille I (LAST-CLERSE).
+Martine DELPIERRE, Ingénieur d'Etudes, Lille II (LAST-CLERSE).
+- 12 -
+Objet
+La recherche portera sur les problèmes économiques actuels du dévelop
+pement d'industries dites "à haute technologie" et sur les modes de
+développement de ces industries face aux problèmes économiques identifiés.
+On considèrera en particulier la dimension spatiale des modes de dévelop
+pement des industries "à haute technologie" (formes de la division
+spatiale du travail et dynamiques de localisation).
+La recherche s'attachera à trois secteurs de production les semi-
+conducteurs, les équipements informatiques et les équipements de télé
+communication.
+Problématique et hypothèses
+L'accent sera mis sur les dynamiques de changement technologiques et
+des structures industrielles dans le type d'industries considéré, sur la
+base des hypothèses suivantes :
+l'importance des contraintes d'une dynamique "d'innovation permanente"
+et les formes spécifiqus de mixage public-privé dans cette dynamique
+- la place centrale des imbrications entre production "de science"
+et production matérielle ;
+le rôle du travail à haute qualification et son incidence sur les
+formes de la division spatiale du travail ;
+- une évolution des rapports entre grandes entreprises et P.M.E. marquée
+par une tendance à la concentration et à l'intégration verticale et
+l'importance croissante des stratégies des grandes firmes.
+Méthodes utilisées
+La recherche sera conduite en parallèle sur la France et la Grande-Bretagn~
+avec trois grandes étapes impliquant des méthodes différentes.
+- 13 -
+!" Définition, caractères et évolutions des activités "à haute technologie".
+Aspects spatiaux. Analyses sur la France et la Grande-Bretagne (Méthode
+revue de la littérature, analyse critique de celle-ci et positionnement
+provisoire).
+2" Analyse approfondie de la dynamique industrielle des trois secteurs
+choisis (semi-conducteurs, production des matériels informatiques et de
+ceux de télécommunication) en y incluant les formes d'intervention
+publique (Méthode = analyse de sources statistiques, d'études d'entre
+prise et d'enquêtes directes).
+3" Analyse spatiale des trois industries choisies : localisations des firmes,
+structures régionales des emplois, stratégies de localisation des diffé
+rentes fractions du processus de production (Méthode= idem le 2).
+Calendrier
+Recherche sur deux ans, en principe à partir de Septembre 1986.
+Collaborations
+Il s'agit d'un projet de recherche conjoint associant
+• pour la partie concernant la France :
+- une équipe I.F.R.E.S.I. (cf les indications données en a) ;
+- le Centre Européen Johns Hopkins (J. DYCK!~ etE. SWYNGEDOUW).
+• pour la partie britannique :
+- Ph. COOKE (Université du Pays de Galles - CARDIFF) et
+-K. MORGAN (Université du Sussex- BRIGHTON).
+- 14 -
+• pour le travail comparatif sur la base d'un objet, d'une méthode, d'hypo
+thèses communes, à toutes les étapes de la recherche = ensemble des
+participants.
+Institutions et organismes impliqués
+- Pour la réalisation de la recherche :
+- I.F.R.E.S.I. (LAST-CLERSE - Université de Lille I)
+- Centre Johns Hopkins
+- Université du Pays de Galles
+- Université du Sussex
+- Pour le financement de la recherche
+CNRS/ESRC : Commission mixte sur les politiques de développement
+industriel et leurs incidences régionales/locales.
+1.4, LES OUVRIERS QUALIFIES, LES AGENTS DE MAÎTRISE ET LES
+TECHNICIENS DE PRODUCTION DANS LES INDUSTRIES EN COURS
+D'AUTOMATISATION : COMPARAISON P.M.I./GRANDE ENTREPRISE
+L.A.S.T.R.E.E. - C.L.E.R.S.E.
+Michel SUEUR, Ingénieur d'Etudes (Sociologie), LASTREE-CLERSE.
+Objet, problématique et hypothèses
+L'objet de cette recherche porte sur la transformation des groupes profes
+sionnels et de leurs rapports dans les nouveaux systèmes de production auto
+matisés des entreprises. L'hypothèse avancée est la suivante : en relation
+- 15 -
+avec les transformations des conditions technico-économiques de la produc
+tion, les catégories professionnelles contemporaines du taylorisme sont
+aujourd'hui remises en question par certaines directions d'entreprise.
+On assisterait donc à une redéfinition du rôle professionnel de groupes
+sociaux traditionnels tels que l'ouvrier de fabrication (devenu opérateur
+hautement qualifié?), de l'ouvrier d'entretien (devenu technicien?),
+de l'agent de maîtrise (devenu gestionnaire?) ••• Par ailleurs, l'optimi
+sation des nouveaux systèmes de production automatisés ne semble possible
+qu'avec la mise en place de nouvelles organisations du travail suscitant
+des coopérations nouvelles et la transformation des relations hiérarchiques
+et fonctionnelles dans l'entreprise.
+Cependant, l'état de l'organisation du travail et des qualifications
+ainsi que les conditions de "réussite" de l'automatisation varient selon
+qu'il s'agit de la grande entreprise ou de la P.M.I. -voire selon les
+branches d'activités économiques-, d'où l'intérêt de tester ces hypothèses
+dans une démarche comparative.
+C'est ainsi que dans les mutations actuelles serait visé
+pour les ouvriers qualifiés, un type relativement nouveau d'ouvriers
+auxquels seraient désormais attachées des compétences qui combinent une
+grande maîtrise de la conduite des installations automatisées, une dimen
+sion d'analyse de la production distanciée de l'acte immédiat de fabri
+cation, une insertion dans les pratiques de gestion de la production,
+et une responsabilité organisationnelle, voire hiérarchique vis-à-vis
+des collectifs de travail.
+- pour les agents de maîtrise et les techniciens de production, des personnes
+situées en fabrication ou dans des services fonctionnels amenées à nouer
+des relations beaucoup plus directes qu'auparavant avec la fabrication.
+Serait attribué à cette catégorie un rôle technique et de gestion rela
+tivement nouveau visant à assurer, optimiser et modifier le fonctionnement
+des systèmes automatisés.
+Les questions auxquelles la recherche s'efforcera de répondre sont les
+suivantes :
+- 16 -
+Quels sont dans les nouveaux systèmes automatisés les critères de
+différenciation des ouvriers qualifiés-agents de maîtrise-techniciens de
+production ? Quel est le nouveau profil de ces catégories professionnelles
+Quelles sont les nouvelles combinaisons sociales au travail ? Peut-on
+parler d'une nouvelle professionnalité ouvrière compte tenu de son dépla
+cement vers des éléments socialement définis comme participant d'une profes
+sionnalité technicienne ?
+Inversement, y a-t-il une nouvelle professionnalité technicienne puis
+que les techniciens de production doivent intégrer en permanence des
+préoccupations et des connaissances sur la conduite immédiate des instal
+lations qui relèventde la professionnalité ouvrière ?
+Méthodes utilisées
+Sur le plan méthodologique, la recherche est centrée sur des entreprises
+en situation d'innovations importantes.
+A cela s'ajoute le souci de dépasser le simple constat d'une situation
+à un moment donné en intégrant une dimension prospective et en cernant
+les dynamiques sociales en oeuvre.
+L'enquête en entreprise procède par interviews auprès des responsables
+de service et des salariés.
+Le modèle de la grande entreprise est constitué par une usine sidérur
+gique.
+Trois à quatre P.M.E./P.M.I. appartenant à des secteurs d'activités
+différents sont étudiées de manière approfondie : elles présentent la parti
+cularité d'être en intense situation d'innovation technique et sociale et
+de connaître un taux différencié de réussite de leur automatisation. Une
+enquête se réalise actuellement dans une entreprise de 40 personnes
+fabricant en petite série du matériel de manutention. Des contacts sont
+en cours avec une entreprise sous-traitante de l'automobile, une teinturerie
+et une entreprise de fabrication de tôles d'éternit.
+- 17 -
+Calendrier
+Cette opération de recherche est financée pour deux ans depuis le
+1/0711985 dans le cadre de 1 'Action Concertée "Aspects économiques et
+sociaux de 1 'automatisation des P.M.I." mise en place par le Programme
+Mobilisateur n• 5 du Ministère de la Recherche et de la Technologie.
+Collaborations
+Cette recherche, animée et coordonnée par le C.E.R.E.Q., réunit cinq
+équipes sur la base du réseau d'équipes de recherche qui sont associées
+au C.E.R.E.Q. (Centres Interrégionaux Associés).
+Il s'agit du C.E.R.E.Q. (Paris), de l'I.R.E.P.-Développement (Grenoble),
+du G.R.E.E. (Nancy), du B.E.T.A. (Strasbourg) et du C.L.E.R.S.E. (Lille).
+Il existe en outre une collaboration avec les autres équipes de
+recherche concernées par le champ "P.M.I. automatisées" relevant de
+l'Action Concertée mais aussi du Programme AMES (dépendant du Programme
+Productique) afin de développer les synergies. Dans ce cadre, un suivi
+collectif des recherches est réalisé par des groupes de travail se réunis
+sant régulièrement pour faire le point sur l'état de leurs travaux.
+Enfin, sur la base des réseaux ainsi constitués fonctionne un séminaire
+de recherche sur les méthodes d'analyse des qualifications individuelles
+et collectives.
+Institutions et organismes impliqués
+Agence pour le développement de la production automatisée (A.D.E.P.A.),
+Comité Interprofessionnel Social et Economique du Nord et du Pas de Calais
+(C.I.S.E.), entreprises.
+- 19 -
+2. PRODUCTION DE LA FORMATION DANS ET PAR L'ENTREPRISE
+Recherche comparative internationale
+Participants 5 équipes françaises (recherche pluridisciplinaire)
+1 - L.A.S.T.R.E.E. - C.L.E.R.S.E (UA 345, CNRS/Lille l)
+- C. DUBAR, Responsable ~~Ei2l2Bi~· Maître de Conférences
+- N. GADREY, Maître de Conférences, Sociologue
+-S. ENGRAND, Ingénieur C.N.R.S., Sociologue
+- E. DUBAR, Assistante Sciences de l'Education
+-M. FEUTRIE, Maître de Conférences, Sciences de l'Education
+- M.C. VERMELLE, Allocataire de thèse, Sociologue.
+2 - G.R.E.E. (Nancy II)
+-P. MEHAUT, Responsable ~E2~~mi~, Chargé de Recherche C.N.R.S.
+3 - C.E.R.E.Q. (Paris)
+- J.P. GERIN, Economiste, Chargé d'Etudes.
+4 - I.R.E.P. (Grenoble Il)
+-M. BEL, Ingénieur C.N.R.S., Economiste
+-P. MOUY, Ingénieur C.N.R.S., Economiste.
+5 - I.A.E. (Grenoble Il)
+- C. ECHEVIN, Responsable ~Ei~~E~-~~-Q~!!i2~• Chargé de Recherche
+C.N.R.S.
+- A. GIRAUD-HERAUD, Science de Gestion, Assistante.
+Equipes étrangères
+- I.S.F. de Munich (R.F.A.) : Ingrid DREXEL, Sociologue.
+2 - I.C.H.E.C. de Bruxelles (Belgique) : Claire de BRIER, Science de Gestion.
+3 - Université de Bari (Italie) : Département des relations de travail et
+des relations industrielles - Mirella GIANNINI, Sociologue.
+- 20 -
+Institutions et organismes impliqués (financeurs)
+1 -C.N.R.S., Programme P.I.R.T.T.E.M. et Direction Relations Inter
+nationales
+*
+vote favorable du Comité Scientifique du 6/03/1986.
+2- Délégation à la Formation Professionnelle (Secrétariat d'Etat)
+*
+vote favorable du Comité Scientifique du 12/03/1986.
+3- Commissariat au Plan (Appel d'offre sur la Formation)
+*
+vote favorable du Comité Scientifique du 21/03/1986.
+Financements étrangers en cours
+4- Fondation Bosch (R.F.A.) et Ministère Fédéral de l'Education.
+5- Centre National de la Recherche (Rome).
+Durée prévue
+30 mois à la signature des conventions avec chacun des financeurs,
+soit du 1/07/1986 au 31/12/1988.
+Objet, problématique, hypothèses
+L'objet de la recherche concerne les modes d''élaboration, les contenus
+et les effets des politiques de formation d'entreprises dans plusieurs pays
+européens. Il se décompose en trois volets essentiels correspondant aux
+trois aspects de ces politiques :
+- les modèles de formation sous-jacents à ces politiques et st1~cturant
+les conceptions, propositions et pratiques des acteurs impliqués
+dans l'élaboration et la mise en oeuvre de celles-ci (directions
+d'entreprise, syndicats, formateurs, experts .•• )
+- 21 -
+- les stratégies d'entreprise impliquées dans ces politiques : projets
+de modernisation technologique et de transformation organisationnelle,
+modes et outils de gestion de la main d'oeuvre, stratégies économiques
+et sociales des firmes.
+les modes de socialisation professionnelle mis en jeu par ces poli
+tiques : évolution des qualifications, mobilis.ation des personnels,
+restructuration des groupes professionnels.·
+La problématique commune s'organise autour de l'hypothèse d'un rôle
+stratégique de la formation dans les mutations en cours dans les entreprises
+et de l'émergence de nouvelles formes et pratiques de formation pour faire
+face aux exigences de ces mutations. Ces formes nouvelles seraient fortement
+dépendantes des "modèles sociétaux" caractérisant, dans chaque pays, les
+liens entre système éducatif et système productif d'où l'importance des
+comparaisons internationales. Elles seraient également liées aux politiques
+des branches et secteurs économiques impliquant des configurations spéci
+fiques d'acteurs et des contraintes particulières des marchés de produits
+et de main d'oeuvre. Elles seraient enfin conditionnées par les caractéris
+tiques des groupes professionnels auxquels elles s'adressent et spécia
+lement de leurs trajectoires d'emploi et de formation. L'hypothèse de
+l'émergence de nouveaux modèles de formation implique donc à la fois une
+étude directe et approfondie des "formations" mises en oeuvre dans les
+entreprises et une approche pluridisciplinaire et comparative des divers
+facteurs liés à la formation.
+Méthodes utilisées
+Elles combineront l'approche directe et intensive d'une quinzaine d'entre
+prises françaises appartenant à cinq ou six branches jugées significatives
+(textile, première transformation des métaux, chimie, électronique, service
+aux entreprises) et, au moins, dix entreprises étrangères (R.F.A., Belgique,
+Italie) avec l'analyse secondaire comparative des sources concernant les
+systèmes de formation professionnelle (initiale et continue), les classi
+fications d'emploi et les groupes professionnels dans les pays choisis.
+- 22 -
+L'approche directe des entreprises se fera en deux ou trois vagues
+successives destinées à recueillir des données statistiques pertinentes,
+des entretiens approfondis de responsables "décideurs" et "formateurs",
+des questionnaires ou entretiens auprès d'échantillons de salariés passés
+en formation et appartenant à des catégories stratégiques.
+Cette approche sera précédée d'un travail commun entre équipes fran
+çaises et étrangères visant à assurer la comparabilité des données recueil
+lies.
+Elle sera accompagnée d'une recherche sur les caractéristiques perti
+nentes, structurelles et évolutives des systèmes de formation et d'emploi
+des branches et pays concernés.
+L'objectif méthodologique principal n'est pas la juxtaposition de
+monographies d'entreprises mais la coordination et la sélection de données
+comparatives pertinentes permettant la théorisation des relations entre
+politiques de formation et stratégies d'entreprise dans des contextes
+sociétaux différents.
+La recherche vise finalement à faire avancer la question des rôles de
+la formation dans les mutations en cours des sociétés industrielles et de
+la place des entreprises dans la production et l'usage des divers types
+de formation.
+Sigles
+C.E.R.E.Q. Centre d'Etudes et de Recherches sur les Qualifications (Paris)
+C.L.E.R.S.E. - Centre Lillois d'Etudes et de Recherches Sociologiques et
+Economiques (Lille)
+G.R.E.E. -Groupe de Recherche sur l'Education et l'Emploi (Nancy)
+I.A.E. - Institut d'Administration des Entreprises (Grenoble)
+I.C.H.E.C. - Institut Catholique des Hautes Etudes Commerciales (Bruxelles)
+I.R.E.P. - Institut de Recherche Economique et de Planification (Grenoble)
+I.S.F. - Institut fur Sozialwissenschaftliche Forschung (Munich)
+- 23 -
+L.A.S.T.R.E.E. - Laboratoire de Sociologie du Travail, de l'Education et
+de l'Emploi (Lille)
+P.I.R.T.T.E.M. - Programme Interdisciplinaire de Recherche sur Technologies,
+Travail, Emploi, Modes de vie (C.N.R.S.).
+- 25 -
+3. STRATEGIES DES FIRMES EN PERIODE DE MUTATIONS
+3.1, FLEXIBILITÉ ET RESTRUCTURATIONS
+L.A.S.T. - C.L.E.R.S.E. (UA 345, CNRS/LILLE I)
+Opération
+Incertitude économique et gestion des ressources par les firmes.
+Application aux politiques de main d'oeuvre.
+Stratégies d'adaptation des firmes et coûts d'ajustement.
+Equipe de recherche
+La recherche est réalisée grâce à la collaboration de trois organismes
+de recherche de la région Nord-Pas de Calais :
+- l'Observatoire Régional des Formations, des Qualifications et des
+Emplois ;
+- le Centre Inter-Régional associé au C.E.R.E.Q.
+-le L.A.S.T., équipe du C.L.E.R.S.E. (UA 345 du CNRS).
+Participent à l'opération de recherche :
+Michel AGNES et Benoit CART (Chargés d'Etudes), Bernard DELMAS (Assistant),
+Gabriel MEGANCK, François STANKIEWICZ (Professeur), tous économistes.
+François STANKIEWICZ en assure la responsabilité.
+- 26 -
+Il est souhaité que cette opération de recherche, commencée en 1986
+puisse donner lieu, dans le cadre de l'I.F.R.E.S.I., à un élargissement
+pluri-disciplinaire et à un prolongement sous forme d'analyse comparative
+internationale.
+Objet de la recherche
+La recherche poursuit un double objectif
+a) saisir la cohérence d'ensemble des stratégies visant à absorber les
+fluctuations de la demande et des facteurs de production et y cerner
+le rôle spécifique des politiques de main d'oeuvre.
+Cette étape doit déboucher sur la définition d'une typologie des stratégies
+d'adaptation des firmes confrontées à l'incertitude.
+b) procéder à la mesure de certains coûts d'adaptation afin d'éclairer
+l'importance et la nature des flux de main d'oeuvre. Dans cette pers
+pective on s'attachera plus particulièrement au coût du licenciement
+et au coût d'entrée de certains postes de travail. L'observation qui
+sera menée vise à progresser dans l'élaboration d'une méthodologie
+de la mesure des coûts d'ajustement (coût d'entrée et coût de sortie).
+Les irrégularités d'évolution subies par l'entreprise sont liées aux
+fluctuations de sa demande, qui peuvent ~tre de nature saisonnière, d'ori
+gine conjoncturelle (subissant l'influence des accélérations ou des ralen
+tissements constitutifs du "cycle économique") ou de caractère accidentel
+(lié à des évènements "uniques") ••• Mais l'incertitude porte également sur
+les moyens de production susceptibles de subir des variations involontaires.
+S'agissant de la main d'oeuvre, ces variations sont dues par exemple à
+l'absentéisme ainsi qu'au turn-over lié à la mobilité volontaire que
+l'entreprise contrôle plus ou moins. Les moyens d'affronter l'incertitude
+économique sont eux-m~mes nombreux et divers : l'entreprise peut agir sur
+le niveau des stocks ou jouer sur l'importance des délais de livraison;
+- 27 -
+elle peut modifier le degré d'utilisation des effectifs (en faisant varier
+par exemple leur durée de travail) ou, à l'inverse, ajuster le niveau même
+des effectifs ; elle peut encourager la mobilité interne, la polyvalence,
+voirela plurifonctionnalité ou préférer recourir à la sous-traitance, que
+celle-ci soit organisée à l'extérieur ou à l'intérieur même de l'entre
+prise ••. Pour pallier l'absentéisme, la firme peut recourir aux emplois
+temporaires ou se prémunir par la constitution d'un "sur-effectif"
+permanent •.•
+Par delà le repérage descriptif des moyens utilisés par les firmes
+face à l'incertitude, il convient de replacer ces différents éléments par
+rapport aux stratégies développées par les entreprises pour contrôler les
+modifications imprévisibles de la demande et des moyens de production.
+Ceci comporte pour la recherche, une double implication
+- viser à établir une typologie des stratégies d'adaptation
+des firmes confrontées à l'incertitude.
+Dans cette perspective, on peut par exemple tester l'hypothèse d'une
+bipolarisation des firmes selon qu'elles pratiquent une flexibilité de
+type "externe" ou "interne". Dans le premier cas, ce sont des flux d'em
+bauches et de licenciements (donc une modification des flux avec l'environ
+nement extérieur) qui permettent aux firmes de gérer l'incertitude. Dans
+le second cas (flexibilité interne), la firme absorbe les perturbations
+extérieures en jouant de la plasticité de son organisation interne, suscep
+tible, grâce à la polyvalence ou à la modulation des horaires, d'épouser
+une grande variété d'états •••
+Quelles que soient les configurations qui seront mises en évidence,
+il conviendra de repérer les facteurs (taille de l'entreprise, secteur
+d'appartenance ••• )capables de rendre compte de la variété des stratégies
+adoptées.
+- pointer les difficultés d'adaptation des firmes confrontées
+à l'incertitude.
+- 28 -
+L'analyse précédente serait d'un intérêt limité si elle ne conduisait
+pas à repérer les obstacles rencontrés par les firmes pour s'ajuster aux
+conditions créées par une évolution aléatoire. Ces obstacles peuvent, en
+effet, être lourds de conséquences s'ils conduisent à des pertes de marchés
+ou à des restrictions à l'embauche.
+D'un point de vue dynamique, l'action conjuguée des firmes et des pouvoirs
+publics peuvent jouer à réduire ces rigidités. Se. trouve alors posé le
+problème de l'évolution des stratégies des firmes: à cet égard, la flexibi
+lité permise par le recours aux emplois temporaires ne tendra-t-elle pas
+à perdre de son importance si les conditions techniques et organisation
+nelles permettent le développement de la mobilité intra-firme et l'aména
+gement du temps de travail? •••
+Comprendre la nature des stratégies d'ajustement choisies par les
+firmes confrontées à l'incertitude impose inévitablement de s'attacher aux
+coûts que ces stratégies impliquent.
+C'est là une question délicate, pour une double raison au moins
+d'abord parce que les coûts d'ajustement sont plus ou moins bien perçus
+par les entreprises, d'autre part, parce que les coûts d'ajustement
+correctement évalués peuvent être sensiblement supérieurs à ce que donne
+à penser leur saisie immédiate élémentaire. On ne prendra, à titre d'illus
+tration, qu'un seul exemple, celui du coût du licenciement. Les très rares
+études sur la question indiquent que les entreprises peuvent ne pas avoir
+une idée précise de ce que leur coûte un licenciement. En outre, si on prend
+en compte l'ensemble des charges réellement supportées par la firme lors
+d'un licenciement (c'est-à-dire outre les indemnités, les pertes de savoirs,
+la désorganisation entrainée par celui-ci .•• ), le coût de ce licenciement
+peut être considérablement accru.
+Nonobstant la difficulté du sujet mais compte tenu de l'ignorance fort
+grande pour ce qui touche à ce problème, on se bornera à l'évaluation de
+certains coûts d'ajustement en vue d'élaborer une méthodologie de leur
+mesure.
+- 29 -
+Méthodes
+• Enquêtes en entreprise
+• Exploitation des données statistiques nationales, de branche ..•
+Calendrier
+Les principaux résultats de la recherche, ayant par certains aspects
+un caractère exploratoire, devraient être disponibles pour la fin de
+l'année 1986.
+Collaborations
+- Observatoire Régional des Formations, des Qualifications et des
+Emplois.
+- C.I.A. du C.E.R.E.Q. de Lille.
+- L.A.S.T., équipe du C.L.E.R.S.E.
+Objectifs d'élargissement
+• Interactions avec les recherches menées par les diverses
+composantes de l'I.F.R.E.S.I. : travaux des gestionnaires sur la gestion
+des ressources humaines (UA CNRS Economie de la firme), des sociologues
+sur les politiques de formation des entreprises (LASTRE-CLERSE) ou sur
+la main d'oeuvre immigrée (OMINOR-LABORES) •.•
+• Organisation dans le cadre de l'I.F.R.E.S.I. d'un séminaire
+devant aboutir à la constitution d'un groupe de recherche international
+(France, Allemagne, Italie, Royaume-Uni) sur les modalités et le coût
+des restructurations. Collaboration avec le C.I.R.A.C. (Université de
+Valenciennes).
+- 30 -
+3,2, LE ROLE DES STRUCTURES INSTITUTIONNELLES DANS LES POLITIQUES
+DES FIRMES
+Impact sur les stratégies de financement, d'investissement et d'innovation
+C.R.E.A./C.R.E.S.G.E. - L.A.B.O.R.E.S. (UA 362,
+CNRS/Fédération Universitaire et Polytechnique
+de Lille)
+Participants actuels
+Jean-Philippe AMMEUX, Chargé de Recherche, Sciences Economiques (LABORES)
+Jean-Philippe BOUSSEMART, Chargé de Recherche, Sciences Economiques
+(CREA-LABORES)
+Louis EECKHOUDT, Chargé de Recherche, Sciences Economiques (CRESGE
+LABORES et FUCAM Mons)
+Jean-Paul LAMBERT, Chargé de Recherche, Sciences Economiques (LABORES
+et CORE Louvain la Neuve)
+Frédéric LOBEZ, Professeur de Finance, Sciences de Gestion (IESEG)
+François MILLEQUANT, Chargé de Recherche CNRS, Sciences Economiques,
+(CRESGE-LABORES)
+Olivier OGER, Directeur du CREA (LABORES)
+Dominique SAGOT-DUVAUROUX, Chargé de Recherche, Sciences Economiques
+(CRES GE).
+Objet, problèmatique et hypothèses
+Les capacités d'adaptation d'une firme à son environnement dépendent en
+partie des possibilités de financement qui s'offrent à elle, elles-mêmes
+conditionnées par la structure institutionnelle de l'entreprise. De nombreuses
+firmes (marchandes ou non-marchandes) sont confrontées à des problèmes de
+conversion et/ou de restructuration pour s'adapter aux nouvelles concurrences
+et aux modifications des besoins, qui impliquent pour elles la nécessité de
+procéder à des investissements humains et matériels pour mener leur politique
+d'innovation. L'analyse de l'articulation entre structures institutionnelles,
+modalités de financement, risque et innovation revêt donc une grande importance.
+- :n -
+Les recherches conduites par plusieurs économistes du L~ORES concer
+nent directement la théorie de la firme et en particulier l'analyse des
+comportements et des stratégies selon des approches très convergentes qui
+consistent notamment à déterminer comment les schémas implicites de la
+théorie néo-classique du producteur peuvent être étendus à d'autres types
+d'entreprises que la firme capitaliste usuelle.
+L'approche traditionnelle dans ce domaine con~idère en effet l'entre
+prise comme une unité technique qui combine les ressources pour produire
+des biens et des services proposés sur le marché. Les facteurs sont achetés
+ou loués et les décisions concernant (a) ce qu'il faut produire, (b) la
+manière de le faire, (c) en quelle quantité et éventuellement (d) à quel
+prix le vendre, sont prises par le dirigeant-propriétaire de la firme,
+l'entrepreneur. Celui-ci supporte tous les risques et se rémunère grâce
+au revenu net résiduel de la vente de la production après que les différents
+facteurs utilisés ont reçu leurs rémunérations fixée par des engagements
+contractuels préalables (salaires, intérêœ, loyers, fermages, etc ••• ).
+Par conséquent, il est souvent -mais pas toujours- supposé avoir pour
+objectif de maximiser ce revenu net, ou surplus, ou profit, dont il est
+le créancier exclusif.
+Cette approche définit l'entreprise capitaliste traditionnelle, dans
+laquelle l'entrepreneur-propriétaire exerce la fonction de "manager". Elle
+correspond plus ou moins à la P.M.E. indépendante et sert habituellement de
+modèle de référence pour les analyses.
+Or, il apparaît, dès lors que l'on introduit la notion de risque et
+d'incertitude, que cette forme d'entreprise ne constitue peut être pas la
+référence optimale en la matière dans le domaine du financement, de l'endet
+tement et de l'investissement. L'organisation la plus performante dans ce
+domaine serait en effet la société par action ("open corporation") qui
+dissocie propriété et pouvoir et dont le capital est largement diffusé dans
+le public via les marchés boursiers : la prise en charge du risque par les
+actionnaires, au portefeuille diversifié, confère des avantages supérieurs
+aux coûts induits de "connnandite" ("agency costs") que cette séparation entre
+propriété et pouvoir peut conduire, les objectifs des managers-dirigeants
+n'étant pas obligatoirement ceux des propriétaires-actionnaires. La prise en
+- 32 -
+compte des conflits possibles entre les dirigeants et les actionnaires,
+mais aussi entre les actionnaires et les créanciers permet une relecture
+enrichissante de la politique financière de la firme.
+Dès lors que la question du financement, voire du subventionnement,
+des entreprises devient un élément, sinon central, du moins important pour
+les économistes travaillant sur des types de firmes a priori aussi dissem
+blables que l'exploitation agricole, la coopérative, l'entreprise culturelle,
+la SCOP ou la P.M.E. traditionnelle, des convergences étroites apparaissent
+et les méthodologies se rejoignent, sans pour autant adhérer totalement
+aux philosophies sous-jacentes, autour des courants d'analyse tels que les
+droits de propriété (DE ALESSI, FURUBOTN, MONISSEN, PEJOVICH .•• ), les coats
+de commandite (ALCHIAN, DEMSETZ, FAMA, JENSEN, MECKLING ••• ), la théorie des
+signaux (ROSS, TALMOR), la forme optimale des contrats (JOHN, KALAY, SMITH,
+WARNER ••• ), la nouvelle économie institutionnelle (WILLIAMSON) ou l'appro
+che managériale ou bureaucratique (BAUMOL, MARRIS, BRETON, WINTROBE ••• ).
+Force est de constater que ces démarches visent à adapter les concepts
+économiques de maximisation, d'optimum et d'équilibre de la théorie néo
+classique pour les appliquer à d'autres schémas que celui de la firme
+capitaliste traditionnelle. Ces concepts se matérialisent différemment selon
+les contextes organisationnels au sein desquels les décisions interviennent.
+Schématiquement, la démarche générale consiste à considérer que la
+firme est une organisation dont les membres recherchent leur propre intérêt
+(utilité) et poursuivent une pluralité d'objectifs particuliers. Le contenu
+de cette utilité est lié au type d'organisation dans lequel se trouvent
+les décideurs. Le "profit" n'est plus, dans ce cas, que l'argument d'une
+fonction d'utilité spécifique, qui ressortit d'un système particulier d'
+entreprise privée et d'économie du marché.
+Ceci conduit, par exemple, à des développements très importants et très
+féconds dans l'analyse de la firme autogérée, tant en ce qui concerne les
+approfondissements théoriques, prenant en compte explicitement le risque
+et l'incertitude dans la formalisation, qu'en ce qui concerne les vérifi
+cations empiriques portant sur divers pays, dont la France. D'autres recher
+ches analogues, mais beaucoup moins développées, portent sur d'autres
+formes d'entreprises de l'économie sociale et coopérative. Pour l'essentiel,
+- 33 -
+il s'agit de travaux d'économistes anglo-saxons, qui soulignent l'importance
+des liens entre les structures décisionnelles et les comportements financiers
+des entreprises.
+Méthodologie
+Le projet présenté vise à conduire, sur la base de ces travaux théoriques
+et des observations expérimentales des participants, une recherche compa
+rative de six formes d'entreprises assez bien typées, visant à mettre en
+évidence les convergences et les divergences de comportement et de straté
+gies dans les domaines essentiels du financement (ou de la subvention),
+de l'endettement et de l'investissement, en lien avec leur capacité de
+conversion, d'innovation et de mise en oeuvre des technologies nouvelles.
+Les formes d'entreprises concernées sont les suivantes :
+- l'exploitation agricole
+2 - la coopérative agricole
+3 - la firme capitaliste traditionnelle (P.M.E. industrielle) ;
+4 - la firme capitaliste "managériale" (grande entreprise, susceptible en
+particulier d'émettre des titres sur les marchés boursiers) ;
+5 - la société coopérative ouvrière de production (firme autogérée à pro
+priété "socialisée") ;
+6- l'entreprise à charge de service public (on mettra l'accent dans un
+premier temps sur le secteur culturel, ce champ pouvant être étendu
+ultérieurement à d'autres domaines : office d'HLM, établissements sani
+taires et sociaux ••• ).
+Sa réalisation repose sur une double démarche
+théorique tout d'abord : A l'aide des acquis des travaux dont on vient
+d'évoquer les principaux courants, elle consiste à situer les comportements
+attendus des firmes sur les thèmes cités, et surtout à tenter de construire
+un schéma d'analyse commun permettant d'assurer la nécessaire cohérence
+- 34 -
+de la comparaison envisagée. Elle implique, outre de recenser la litté
+rature existante, de réaliser des "surveys" correspondants et de procéder
+aux adaptations des modèles pour les étendre aux six types de firmes
+constituant le terrain de l'analyse. Une partie de ce travail est déjà
+réalisée par les différents participants au projet.
+- empirique ensuite : Sur la base d'informations d'ores et déjà collectées
+lors de recherches antérieures, et d'autres qui restent à réunir ou qui
+devraient être obtenues par voie d'enquêtes ou d'entretiens, l'objectif
+est d'affiner les hypothèses théoriques résultant de la démarche précé
+dente et de s'efforcer de les confronter aux observations de terrain,
+en vue de les confirmer, voire de les réfuter, d'enrichir la probléma
+tique et de nourrir les programmes de recherche individuels des différents
+partenaires du projet dans leurs propres analyses de l'entreprise.
+Collaborations, institutions et organismes impliqués
+Cette opération, en cours de montage, doit prendre la forme d'un groupe
+de travail à finalité théorique et reste ouverte aux collaborations avec
+d'autres chercheurs que les participants actuels du projet. Il est envisagé
+une extension internationale au projet. Des contacts sont pris dans ce
+sens avec notamment le CORE (Center for Operation Research and Econometries)
+de Louvain la Neuve ainsi que l'Université de Liège.
+Elle s'inscrit dans le cadre du Schéma directeur 1986-1988 du P.I.R.T.T.E.M.
+sur le thème "L'entreprise, le système productif et leurs acteurs : analyse
+structurelle, facteur d'efficience économique", avec une orientation vers
+le thème "évolutions des technologies et gestion des entreprises", dans
+l'axe de l'évaluation des facteurs favorisant ou freinant la génèse et la
+diffusion de l'innovation. Un projet sera soumis à la cellule exécutive du
+P.I.R.T.T.E.M.
+- 35 -
+4. VIE ECONOMIQUE ET CHANGEMENT SOCIAL : UNE APPROCHE PLURI-
+DIMENSIONNELLE DANS DEUX BASSINS D'EMPLOI
+Programme présenté dans le cadre d'un projet _franco-britannique
+O.M.I.N.O.R. -·L .A.B.O.R.E.S. (UA 362 CNRS/Fédération
+Universitaire et Polytechnique de Lille)
+C.L.E.C.S./L.A.S.T. - C.L.E.R.S.E. (UA 345 CNRS/Lille I)
+L.A.R.U. (I.D.N.)
+Equipe de recherche
+Coordinateur : G. ABOU SADA, Chargé de Recherche (Sociologie) au CNRS
+(OMINOR-LABORES)
+B. CONVERT, Chargé de Recherche (Sociologie) au CNRS (LARU-IDN)
+T. DEMALS, Assistant de Sciences Economiques (LAST-CLERSE)
+G. FERREOL, Professeur agrégé (Sciences sociales) (CLECS-CLERSE)
+R. FOUDI, Assistant de Sciences Economiques (LAST-CLERSE)
+V. MANGIN, Sciences Economiques (LAST-CLERSE)
+P. MASSON, Ingénieur CNRS (LABORES)
+F. MILLEQUANT, Chargé de Recherche (Sciences Economiques) au CNRS (LABORES)
+M. PINET, Chargé de Recherche (Sociologie) au CNRS (LARU-IDN)
+H. SAD SAOUD, Chargée de Recherche (Sociologie) (OMINOR)
+J.P. TRICART, Chargé de Recherche (Sociologie) au CNRS (OMINOR-LABORES)
+Z. ZEROULOU, Chargée de Recherche (Sociologie) (OMINOR).
+Sur le plan méthodologique, ces chercheurs bénéficieront de la collabo
+ration des membres du Groupe de Recherche Abécédaire (CLECS-CLERSE) qui
+comprend :
+C. BAICHERE (Ingénieur CNRS, Sociologie), H. CUKROWICZ (Chargé de Recherche
+CNRS, Sociologie), A. DUBUS (Assistant en Sciences de l'Education, Lilleiii),
+J.M. DUPREZ (Maître de Conférences, Sociologie, Lille I) et N. RAHMANIA
+(Maître-Assistant en Mathématiques, Lille I).
+- 36 -
+Ce document présente un programme de recherche élaboré par un collectif
+de chercheurs de la région Nord-Pas de Calais en réponse à la demande du
+P.I.R.T.T.E.M. qui souhaitait la réalisation d'une recherche comparative
+franco-britannique sur le thème "vie économique et changement social".
+Les thèmes proposés sont assez proches de ceux retenus par les équipes
+de recherche britanniques et ce afin de faciliter les échanges et les
+confrontations entre les chercheurs des deux côtés de la Manche. La comple
+xité des thèmes retenus et leur imbrication exigent la mobilisation d'une
+équipe pluri-disciplinaire et la mise en oeuvre de plusieurs démarches
+méthodologiques susceptibles de cerner toutes les dimensions des questions
+posées.
+l- OBJET_DU PROGRAMME DE RECHERCHE
+L'aggravation de la crise, durant les dix dernières années, a changé
+considérablement les structures économiques et industrielles, modifiant
+ainsi les conditions et les opportunités d'emplois. En effet, la récession
+et l'évolution technologique ont modifié les structures et les contenus
+des emplois (contraction des emplois industriels et augmentation des emplois
+du tertiaire), la répartition entre travailleurs manuels et non-manuels,
+la répartition entre les sexes (l'augmentation de l'activité féminine
+notamment celle des femmes mariées) et les attitudes au travail. A cela,
+il faut ajouter le développement du chômage qui atteint une part importante
+des populations actives et principalement les jeunes travailleurs. Tous ces
+changements ont des répercussions sur les modes de vie des gens, leur vécu
+et leur rapport au travail. De ce point de vue, l'un des aspects principaux
+de nos investigations concernera l'interdépendance entre la vie au travail
+et la vie hors travail.
+Le programme de recherche présenté ici a pour objet de cerner l'impact
+des interactions de tous ces changements dans la région Nord-Pas de Calais,
+et plus particulièrement dans deux de ses bassins d'emploi : la zone de
+Roubaix-Tourcoing etla zone du Valenciennois. Ces deux zones ont été
+retenues à la fois pour l'exemplarité de leur situation par rapport à d'autres
+zones de la région, parce qu'elles sont suffisamment contrastées pour
+- 37 -
+permettre des comparaisons pertinentes et enfin parce que le collectif
+des chercheurs réunie autour de ce programme de recherche est familiarisé
+avec ces zones et leurs problèmes à travers un ensemble de recherches
+déjà réalisées ou en cours.
+Ce programme de recherche est structuré autour de quatre axes
+- les stratégies des entreprises (recherche notamment de souplesse et
+de flexibilité) et leurs répercussions sur les opportunités d'emplois
+des différentes catégories de la main d'oeuvre
+- l'emploi et le chômage de longue durée
+- les attitudes face au travail
+- l'évolution des relations que chacun des deux sexes entretient avec
+le travail salarié et ses conséquences sur les relations domestiques.
+II - LE PROGRAMME DE RECHERCHE
+II.1 - Les stratégies des entreprises
+Dans ce contexte de crise et de mutations technologiques et industriel
+les, l'analyse des stratégies des entreprises constitue un point essentiel
+pour la compréhension de l'évolution des conditions d'emploi des diffé
+rentes catégories de la main d'oeuvre qui déterminent leur expérience profes
+sionnelle et leur rapport au travail. La recherche visera à cerner les
+politiques et les pratiques des entreprises implantées dans les deux bassins
+d'emploi dans leur dimension historique afin de distinguer entre celles
+qui s'inscrivent dans des perspectives de changement de long terme de
+l'économie et de la société et les autres qui sont spécifiques et liées à
+des évènements ponctuels.
+L'analyse concernera les politiques de main d'oeuvre (sélection, recru
+tement, formation, redéploiement, les différentes formes d'emploi •.• ), les
+- 38 -
+politiques d'investissements et leurs effets sur l'emploi et la structure
+des qualifications des travailleurs, les conséquences du recours à des
+techniques de production novatrices (leurs effets sur l'emploi, l'organi~
+sation du travail, la qualification et la déqualification des travailleurs),
+les stratégies patronales en matière de relation du travail (rapport avec
+les organisations syndicales, le recours aux conventions collectives) et
+les stratégies de localisation et de délocalisation. L'objectif est de
+saisir les modifications récentes de ces politiques et de ces stratégies,
+modifications liées à la récession et à la transformation de l'appareil
+de production. Dans chaque bassin d'emploi on essayera de cerner les
+relations inter-entreprises et intersectorielles. Une attention particu
+lière sera accordée à l'impact de l'implantation d'entreprises dynamiques
+nouvelles étrangères à la région et qui peuvent y apporter des politiques
+qui ne tiennent pas compte des conditions locales et perturber ainsi le
+jeu des stratégies traditionnelles sur le marché du travail.
+L'enquête auprès des entreprises des deux bassins d'emploi permettra
+de distinguer et de souligner les éléments de ces stratégies qui renvoient
+à la spécificité des conditions locales. De même, il importe de référer
+ces politiques et pratiques aux différences sectorielles ainsi qu'à la
+taille des entreprises concernées. Dans cette perspective, les deux zones
+d'enquête sont suffisamment contrastées pour permettre des comparaisons
+pertinentes.
+Compte tenu de la complexité de l'objet de nos investigations et de
+ses multiples dimensions, nous combinerons différentes approches méthodo
+logiques : quantitative et qualitative, intensive et extensive. L'analyse
+se situera à plusieurs niveaux : les directions des entreprises, les
+salariés, les organisations syndicales et les groupements professionnels.
+II.2 -Rationnement de l'emploi et chômage de longue durée
+La profonde restructuration de l'appareil productif régional s'est
+traduite par l'apparition d'un excédent de main d'oeuvre dont le niveau
+est aujourd'hui supérieur à celui observé pour l'ensemble du pays. La
+progression du chômage dans la région est, il est vrai, antérieure aux
+- 39 -
+années 1970. Mais, l'élément nouveau qui doit attirer l'attention est
+l'allongement de l'ancienneté moyenne du chômage. Celle-ci est passée de
+235 jours en 1975 à 365 jours en Février 1986. On observe ainsi une augmen
+tation du nombre de demandeurs d'emploi inscrits à l'ANPE depuis au moins
+un an. Ce nombre a été multiplié par 10 entre 1975 et 1986, alors que le
+chômage total l'était par environ 3. Les chômeurs de longue durée consti
+tuent désormais une part significative dans l'ensemble des chômeurs
+(environ 30 %) •
+Ce développement récent du chômage de longue durée, son caractère massif,
+suscitent d'emblée deux grandes interrogations
+• L'une relative aux conditions de vie matérielle des individus depuis
+longtemps écartés de l'emploi. On peut à cet égard se demander si l'allon
+gement de la durée de chômage ne risque pas d'entraîner dans son sillage
+des processus de paupérisation, voire de marginalisation, comme tendrait
+à le laisser penser le phénomène récent des "nouveaux pauvres".
+• L'autre a trait au devenir même des populations concernées. Le ration
+nement sévère de l'emploi dans le Nord-Pas de Calais leur laisse t-il
+quelques chances de réinsertion ? Ou bien, doit-on interprêter leur ancien
+neté de chômage comme le signe d'une distance à l'emploi irréductible ?
+La définition de mesures d'interventions adaptées aux situations de
+chômage de longue durée est nécessairement soumise aux réponses que l'on
+pourra donner à ces questions.
+Les apports d'une enquête longitudinale
+Le premier objectif de cette recherche est la réalisation d'une enquête
+longitudinale auprès d'un échantillon de chômeurs enquêtés il y a deux
+ans. En effet, il s'agira à partir des fichiers en notre possession de
+réenquêter à nouveau l'échantillon (1). Les nouvelles investigations seront
+(1) - M. AGNES, C. COPPIETTERS, R. FOUOI, F. STANKIEWICZ, N. VANEECLOO :
+"Revenus, niveau de vie et devenir des chômeurs de longue durée".
+Etude appliquée au bassin minier de la région Nord-Pas de Calais.
+Rapport pour l'EPR - 287 pages + Annexes - 1985.
+- 40 -
+organisées autour des cinq questions suivantes
+1"/ La structure des ressources des chômeurs de longue durée se déforme-t
+elle dans le temps ? Sous l'effet de quels facteurs principaux?
+Quel est l'impact sur le niveau des ressources ?
+On peut illustrer ceci en prenant l'exemple des solidarités
+familiales. Elles jouent aujourd'hui un rôle primordial dans l'évitement
+de la pauvreté. Le plus souvent elles prennent la forme d'une cohabi
+tation avec des parents ou proches. Or, cette protection repose sur
+des bases fragiles. Outre que son impact au sein d'un ménage dépend
+du rapport existant entre le nombre d'actifs occupés et le nombre de
+chômeurs, dont rien ne garantit la stabilité, il peut aussi advenir
+que la cohabitation cesse purement et simplement. La décohabitation
+peut alors constituer un facteur important de modification des
+ressources.
+2"/ De quelle nature sont les emplois trouvés par les chômeurs de longue
+durée ?
+Les modalités du retour à l'emploi des chômeurs de longue
+durée continuent à susciter de nombreuses interrogations. Dans quelles
+conditions les DELD accèdent-ils à un emploi ? Les taux de reprise
+d'emploi diffèrent-ils selon le sexe, l'âge, la qualification, l'an
+cienneté de chômage des demandeurs ? La situation professionnelle
+antérieure joue-t-elle un rôle déterminant ? Le chômage de longue
+durée développe-t--il la précarisation de 1' emploi ? Les emplois repris
+se traduisent-ils par une déqualification, une sous rémunération ?
+Un infléchissement des exigences salariale, ou des souhaits en matière
+de mobilité? A défaut d'emploi dans le secteur officiel de l'économie,
+les chômeurs de longue durée se tournent-ils vers l'économie souter
+raine, le travail au noir ?
+- 41 -
+3°/ Le chômage de longue durée incite-t-il au retour à l'inactivité?
+Le retour des chômeurs de longue durée à l'inactivité peut
+être lié à l'âge du demandeur (cas de la retraite), au découragement
+(cas de l'abandon de recherche, suivi du "retour au foyer" dans le
+cas des femmes) ou à l'acquisition d'un statut de substitution (départ
+à l'armée ou en formation pour les jeunes, mise en invalidité pour
+les demandeurs atteint d'un handicap de santé). On peut se demander
+si ces voies de sortie du chômage sont celles empruntées par les
+intéressés, de même faut-il s'intérroger sur les motifs et les consé
+quences du choix de l'inactivité.
+4°/ Les récentes mesures d'intervention en faveur des chômeurs de longue
+durée sont-elles efficaces ?
+L'efficacité des mesures prises en faveur des DELD n'a jusqu'
+ici donné lieu à aucune investigation spécifique. Or, sur l'exemple
+de la population des chômeurs de longue durée de la région, on peut
+se demander :
+- si la création d'un système de "solidarité" a contribué à
+réduire les disparités de niveau de vie entre les ménages, voire à
+faire régresser la pauvreté ;
+- si ces mesures ont réellement favorisé la réintégration
+d'une partie des DELD dans l'emploi, -et sinon quelles en sont les
+raisons-.
+5°/ Comment les modifications de l'environnement économique èt social,
+récemment intervenues dans la région, ont-elles affecté la position
+des chômeurs de longue durée dans la concurrence pour l'emploi ?
+D'un point de vue général, le chômage subit des modifications
+permanentes de niveau et de structure. Elles résultent du changement
+économique (mouvements de création et de disparition d'emplois) et
+- 42 -
+démographique (entrées (en) et sorties (de) l'activité notamment).
+Après avoir saisi la configuration récente de ces flux, on peut se
+demander si leurs résultats ont été ou non favorables aux chômeurs
+de longue durée.
+II.3 - Les attitudes des jeunes face au travail
+a) Objet
+L'objectif de la recherche proposée dans le cadre de ce programme est
+d'éclairer les processus sociaux qui président aux formes d'insertion des
+jeunes, à partir d'une analyse de leurs attitudes face au travail. Elle
+voudrait contribuer à une meilleure appréciation des conditions objectives
+et subjectives qui structurent ces attitudes et par là même, permettre
+une approche plus fine des différentes catégories ou fractions qui
+constituent cet ensemble que l'on appelle communément les jeunes. Elle
+voudrait enfin examiner à la lumière de cette analyse les interventions
+actuellement menées pour favoriser leur insertion.
+Dans le contexte de la crise, la question de l'insertion profession
+nelle des jeunes revêt une importance capitale qu'ont fortement soulignée
+les rapports officiels élaborés à ce titre. Cette question est d'abord
+celle du chômage, dont on sait qu'il atteint fortement les jeunes,plus
+particulièrement ceux de la région Nord-Pas de Calaiset ceux des deux
+bassins d'emploi retenus pour l'enquête ; elle est aussi celle de leur
+formation et de leur qualification et celle de leurs attitudes face au
+travail. Plus généralement, cette question de l'insertion professionnelle
+recouvre celle de l'insertion sociale ; les jeunes qui habitent les quar
+tiers dégraJés ne sont pas seulement les victimes de la crise ; ils sont
+aussi, surtout quand ils sont d'origine étrangère, au centre des conflits
+de cohabitation et des tensions relatives à la sécurité.
+b) Démarche
+Nous nous proposons d'examiner les attitudes des jeunes face au travail
+en inscrivant cet examen dans une analyse des formes de socialisation
+- 43 -
+de ces jeunes, ce qui conduira à distinguer parmi ces diverses cat~gories
+selon leurs trajectoires familiales et scolaires ; et c'est bien entendu
+à ce niveau qu'on pourra réellement spécifier socialement les sous
+catégories que constituent à priori les variables de sexe et de nationalité.
+Il faut cependant ajouter ici deux remarques. La première a trait au fait
+que dans la plupart des réflexions consacrées à l'emploi des jeunes
+jusqu'à présent, l'insistance est mise sur l'explication de l'échec de ces
+jeunes (chômage ou emploi précaire), et en conséquence sur les caracté
+ristiques les plus objectivables et les plus générales de la situation de
+ces jeunes (absence de qualification et donc vulnérabilité dans un contexte
+de crise). De fait ces situations d'échec (c'est-à-dire de reproduction
+sociale le plus souvent) sont les plus fréquentes. La perspective adoptée
+ici ne préjuge cependant pas de cette situation et elle se propose au
+contraire de tenter d'expliquer non seulement les "échecs" mais aussi les
+"succès" de l'insertion. C'est l'ensemble des jeunes au travail ou demandeurs
+d'emploi qu'il convient de prendre pour objet.
+La seconde remarque est que les systèmes d'attitudes et de dispositions
+tant "objectives" que "subjectives" (1) se structurent à travers des modes
+de vie q•li sont aussi, pour une part, des modes d'habitat pour autant
+qu'à ces modes d'habitat correspondent des "univers sociaux" particuliers
+pour les jeunes, l'influence de l'habitat se marque par exemple à travers
+la constitution de groupes de pairs (de "bandes" parfois), à travers les
+réputations (ou stigmatisations parfois) attachées aux lieux de résidence
+et finalement aux éléments qui déterminent l'identité sociale ••• ; elles
+se marquent aussi par le fait que les modes de vie familiaux se structurent
+également à travers les modes d'habitat. C'est en ce sens que l'on ne
+saurait dissocier, sinon artificiellement, l'insertion professionnelle de
+l'insertion sociale -entendue au sens large (2}.
+(1) - Bien entendu, quand on parle ici d'attitudes ou de dispositions
+"subjectives", il ne s'agit pas de psychologie individuelle, mais
+d'attitudes et de dispositions socialement produites.
+[2) - En ce sens, on doit s'interroger aussi sur la façon dont les poli
+tiques visant l'insertion professionnelle des jeunes s'insèrent
+dans les politiques visant de façon globale l'insertion sociale
+et le développement social.
+- 44 -
+On peut dès lors résumer ainsi les principes de base de l'analyse
+que nous proposons :
+- Nous proposons d'examiner les attitudes des jeunes face au travail
+par référence aux trajectoires familiales, scolaires et professionnelles
+de ces jeunes, ce qui implique d'une part de caractériser objectivement
+ces trajectoires et d'autre part de montrer comment ces trajectoires
+engendrent des systèmes de dispositions et d'aspirations sociales.
+-C'est donc l'identification de ces systèmes de dispositions sociales
+qui sera l'objet central de l'analyse, la question étant en particulier
+de voir dans quelle mesure ils reproduisent les dispositions familiales,
+et comment ils sont influencés par l'itinéraire scolaire et par les
+relations et les conditions d'existence dans les espaces de résidence.
+- C'est par rapport à ces systèmes de dispositions qu'on examinera les
+modalités selon lesquelles les jeunes recherchent un emploi, les attentes
+qu'ils expriment quant à l'emploi qu'ils recherchent, les conduites qu'ils
+adoptent dans l'entreprise etc •••
+Ces analyses ne prendront bien évidemment leur sens que sur la base
+d'une étude d'ensemble du contexte socio-économique local, du marché de
+l'emploi, de la politique des entreprises et des politiques d'aides
+publiques.
+Les chercheurs qui proposent ce thème de recherche, mènent actuellement
+des investigations auprès des jeunes du Valenciennois. L'enquête en cours
+concerne environ 400 jeunes de ce bassin d'emploi. Leur objectif dans le
+cadre de ce programme de recherche est de réaliser la même enquête auprès
+des jeunes du bassin de Roubaix-Tourcoing. Il s'agira d'enquêter par
+questionnaires donc, environ 250 jeunes qui seront sélectionnés à partir
+des fichiers scolaires afin de les interroger trois à quatre ans après leur
+sortie de l'appareil de formation initiale et de reconstituer ainsi leurs
+itinéraires socio-professionnels. On réalisera aussi auprès d'un échantil
+lon d'une trentaine de jeunes des entretiens non-directifs de type biogra-
+- 45 -
+phique afin de compléter les données collectées par les questionnaires.
+11.4 - L'évolution des relations que chacun des deux sexes
+entretient avec le travail salarié, et ses conséquences
+sur les relations domestiques
+a) Objectifs
+Traditionnellement, la division du travail entre les sexes et entre
+les âges est, dans le Nord, plus marquée qu'ailleurs. En particulier
+l'activité professionnelle féminine y est globalement moins fréquente
+jusqu'à ces dernières années, les jeunes filles y quittaient l'école plus
+précocement et y travaillaient plus souvent qu'ailleurs.
+Aujourd'hui, ce schéma traditionnel est en train de changer : dans
+les générations nouvelles, les femmes tendent à ne plus limiter leur
+expérience salariée aux premières années de leur vie adulte, mais persis
+tent de plus en plus souvent dans l'activité professionnelle au delà des
+évènements (mariage, et surtout maternité) qui, naguère, provoquaient
+leur retrait.
+Même si globalement l'emploi des femmes est plus faible dans le Nord
+aujourd'hui encore, on constate des inflexions importantes qui marquent
+un déclin relatif du modèle traditionnel de la division sexuelle du
+travail aujourd'hui dans les deux zones de travail, les jeunes femmes
+sortent plus tardivement de l'école, travaillent moins précocement et
+conservent plus fréquemment leur emploi après la naissance de leurs enfants.
+Un des objectifs de la recherche sera de comprendre les déterminants de
+ces changements en essayant de situer, pour chacune des catégories sociales
+concernées, le travail professionnel de la femme dans le système des
+stratégies individuelles et familiales : en particulier, si l'on retient
+l'idée de BOURDIEU selon laquelle il y aurait deux seuils significatifs,
+s'agissant de l'économie familiale, un seuil de sécurité et un seuil de
+- 46 -
+calculabilité (1) on pourra se demander si l'évolution récente du marché
+du travail n'a pas contribué ~ multiplier le nombre des familles qui se
+situent en deçà d'un seuil de sécurité -ce qui nécessite la multiplication
+des sources de revenus au sein du ménage-, ou à l'inverse (même en restant
+dans le cadre des ménages ouvriers et employés) celles qui se situent a•1
+delà du seuil de calculabilité à partir duquel de nouvelles stratégies,
+de nouveaux projets sont possibles, qui nécessitent un double salaire.
+A l'inverse, diminueraient, dans ces conditions, les positions moyennes,
+c'est-à-dire celles où le travail de l'homme est assez assuré et rémuné
+rateur pour assurer à lui seul un revenu familial décent, mais pas assez
+élevé pour permettre de nouveaux investissements, par exemple en matière
+immobilière, qui rendraient de nouveau nécessaire le travail de la femme.
+b) Principes d'analyse
+Ce qu'il est intéressant de noter, c'est que cette évolution du rapport
+de la femme~ l'emploi salarié est contemporaine d'une autre évolution,
+celles des conditions locales de l'emploi masculin. Globalement, dans
+les deux bassins d'emploi, la chute de l'emploi affecte plus l'emploi
+masculin que l'emploi féminin. L'emploi masculin est surtout affecté par
+la baisse très nette des emplois industriels.
+En outre, les conditions actuelles de l'entrée dans la vie active,
+avec un chômage de longue durée fréquent en début de carrière et/ou le
+développement des emplois sur contrats temporaires (intérims ou C.D.D.)
+semblent concerner l'emploi masculin tout autant que l'emploi féminin.
+Tout se passe comme si, pour les générations qui entrent aujourd'hui
+sur le marché du travail, il y avait égalisation par le bas des conditions
+salariales des deux sexes. La précarisation de l'emploi, en ce qu'elle
+hypothèque en particulier les chances d'accès rapide de l'homme~ un
+statut professionnel stable (ce qui est, souvent, une condition à l'enga-
+(1) - En deçà du palier de sécurité la multiplication des sources de reve
+nus s'impose. Dès qu'apparaît en emploi permanent, les ressources
+d'appoint. souvent procurées par des emplois de fortune, perdent tout
+sens, la sécurité étant assurée. Au seuil supérieur, on voit réappa
+raître plusieurs emplois (au sein de la famille). mais tous stables
+et bien rémunérés".
+Cf. P. BOURDIEU, "Algérie 60" - Ed. De Minuit, P. 71-72.
+- 47 -
+gement matrimonial) contrarie la tendance à la reproduction, par et dans
+le mariage, de la division sexuelle du travail traditionnelle (travail
+salarié masculin/travail domestique féminin, ou salaire principal masculin/
+salaire d'appoint féminin).
+Aussi au schéma traditionnel univoque de la division du travail entre
+les sexes tend à se substituer un ensemble de cas de figures significatifs.
+Nous pouvons en donner quelques exemples à partir de la formalisation
+ci-dessous, où l'on définit quatre situations-types par le croisement des
+statuts professionnels de l'homme et de la femme.
+FEMME
+1
+Stabilité + Stabilité -
+Salaire + Salaire -
+H
+Stabilité +
+1 2
+0 Salaire +
+M
+M Stabilité-
+3 4
+Salaire -
+E
+Un idéal-type de la configuration 1, serait le couple formé par un
+O.H.Q. et une employée de la Sécurité Sociale. Ils sont entrés sur le
+marché du travail il y a 10-15 ans, à une époque où l'insertion ne posait
+pas de probl~me et étaient dotés d'un bagage scolaire de type C.A.P.
+(dont la possession à cette époque était plus rare et distinctive qu'aujourd'
+hui). Ils sont aujourd'hui au-delà du seuil de sécurité économique à
+partir duquel de nouveaux investissements sont possibles, notamment sur le
+marché immobilier.
+La configuration 2 (par exemple le couple formé par un jardinier muni
+cipal et une ouvrière de confection dont l'entreprise d'insertion a fermé)
+est celle qui est la plus propice à la reproduction du schéma tradionnel.
+Au delà d'un certain revenu et d'une certaine stabilité du travail du
+mari, l'inélasticité de la demande d'emploi féminine par rapport à l'offre
+a tendance à s'affaiblir. En d'autres termes, en cas de retour de la femme
+- 48 -
+sur le marché du travail, elle ne continuera à chercher un nouvel emploi
+que dans la mesure où elle a une probabilité forte d'en retrouver.
+La configuration 3 (par exemple le couple formé par un manutention
+naire intérimaire et une manutentionnaire aux Trois Suisses employée à
+la constitution des colis), représente un cas de figure tout à fait
+intéressant, et qui semble assez fréquent au moins à Roubaix. Celui où,
+c'est le travail de la famme qui assure la partie stable (et souvent
+majeure) du revenu familial, ceci alors même que les représentations en
+matière de division sexuelle du travail restent traditionnelles (en parti
+culier, la figure de "1 'homme au foyer" reste impensable et n'est encore
+qu'une curiosité des ouvrages de "sociologie amusante").
+La configuration 4 peut recouvrir plusieurs situations assez diffé
+rentes et notamment :
+- le jeune couple en situation de cohabitation juvénile, au sein
+duquel cette situation de précarité économique que les protagonistes ont
+toujours connu l'un et l'autre a produit une relative égalisation des
+conditions et retardé la reproduction de la division traditionnelle.
+- le couple plus âgé, entré progressivement dans un processus de
+marginalisation professionnelle conjointe. Le cas est très fréquent de
+ces personnes âgées aujourd'hui d'une trentaine d'années, qui sont entrées
+sur le marché du travail, il y a 10-15 ans sans diplômes (c'était à
+l'époque, la norme locale), qui n'ont eu aucune difficulté à trouver un
+emploi non qualifié à cette époque, mais qui aujourd'hui, pour les mêmes
+postes rencontrent la concurrence de plus jeunes et de plus diplômés,
+qui souvent les condamne à la précarisation progressive.
+Ces cas de figure, qui ne sont pas construits totalement a priori
+(ils reposent sur une première approche des réalités locales), ne sont
+toutefois que des illustrations partielles de notre propos. Ce sera juste
+ment l'un des enjeux ùe l'étude que de construire une taxinomie de ces
+si tuat i ons.
+- 49 -
+Sur le plan méthodologique, la base de l'étude serait une enquête
+directe par questionnaire comportant à la fois des questions de fait
+(origine sociale, trajectoire scolaire, trajectoire professionnelle,
+etc ••• ) et des questions d'opinions. Elle pourrait être complétée par
+d'autres techniques (analyse des budgets-temps, par exemple). L'enquête
+concernera les deux protagonistes du couple. L'effectif devrait être
+suffisant pour permettre des travaux statistiques, mais compatible avec
+les impératifs d'une enquête directe. Un effectif de l'ordre de 400 person
+nes (2 x 100 couples) nous semble raisonnable. Nous nous proposons de
+constituer la population enquêtée à partir des salariés de quatre types
+d'entreprises : une administration, une entreprise de confection, une
+entreprise de distribution et une entreprise industrielle d'implantation
+récente (électronique et/ou produits pharmaceutiques).
+Collaborations
+- University of Lancaster
+- University of Edinburgh
+- Department of Applied Economies (Cambridge) ;
+- Institute for the Studies of Scarcely populated Areas (Aberdeen).
+Organismes impliqués
+Financement en cours de négociation avec le P.I.R.T.T.E.M. d'autres
+co-financements sont recherchés.
+- 51 -
+5. POLITIQUES GOUVERNEMENTALES ET ENTREPRISES PUBLIQUES
+L'EXEMPLE DE LA POLITIQUE DE RECESSION CHARBONNIERE
+C.R.A.P.S. (UA 982, CNRS/LILLE II)
+Jean-Louis THIEBAULT, Maître de Conférences de Science Politique
+Noëlle BURGI, Chargée de Recherche au CNRS (Science du Politique)
+Xavier VANDENDRIESSCHE
+Denis TABARNOUST
+Objet de la recherche
+A compter d'Octobre 1984, dans le cadre de l'action spécifique du
+C.N.R.S. "Politiques gouvernementales et entreprises publiques", le
+C.R.A.P.S. a développé une analyse de la formulation, du contenu et de
+l'application de la politique de récession charbonnière.
+La formulation d'une nouvelle politique gouvernementale en matière
+charbonnière est, en effet, apparue nécessaire à la suite, d'une part, de
+la mévente du charbon français et de l'augmentation des stocks à partir
+de 1958 et, d'autre part, de la dégradation de la situation financière de
+l'entreprise publique CDF à partir de 1959. Dans ce contexte de difficul
+tés, le gouvernement décidait en 1960 d'intervenir directement sur la
+gestion de CDF en lui imposant un plan de récession de la production
+charbonnière. Ce plan marquait un tournant important de la politique char
+bonnière de la France. Il allait devenir l'axe de référence de la politique
+charbonnière des gouvernements successifs des décennies à venir. Car la
+poursuite de la dégradation financière de CDF, surtout à partir de 1963,
+allait conduire les gouvernements successifs à augmenter fortement la
+subvention et à se substituer pratiquement à l'entreprise publique pour
+décider des objectifs de production et des réductions d'effectifs.
+- 52 -
+L'intervention permanente des gouvernements successifs dans la mise
+en oeuvre de la politique de récession charbonnière s'explique ainsi par
+plusieurs facteurs :caractère éminemment politique du dossier du
+charbon, multiplication des mesures sociales et des aides financières
+d 1 accompagnement, importance et progression constante des subventions budgétaires,
+limitation des débouchés en raison de la concurrence des autres produits
+énergétiques.
+Pour appliquer cette politique, les gouvernements successifs ont
+transformé CDF en une administration chargée de la gestion de la réces
+sion et des ses implications, même si CDF s'est aussi constitué progres
+sivement comme une véritable entreprise industrielle autonome avec un
+ensemble d'activités très diversifiées. Une première étape de la recherche
+a pu mettre en évidence la multiplicité des méthodes utilisées par CDF
+pour s'acquitter de cette mission.
+Après cette première phase d'analyse, le C.R.A.P.S. a proposé au
+comité d'A.T .P. "Politiques gouvernementales et Entreprises publiques"
+un nouveau projet, en Octobre 1985. Ce nouveau projet intitulé : "Le
+groupe CDF et la politique de récession charbonnière" a été retenu par
+le comité d'A.T.P. en Novembre 1985.
+Méthodologie
+L'équipe a recours à une analyse de type organisationnel visant à
+détecter, non seulement le poids réel des structures, mais surtout à
+mesurer le degré d'autonomie des politiques menées par le groupe CDF
+dans le cadre de la politique gouvernementale de récession charbonnière.
+Seule une analyse de type organisationnel doit nous permettre de compren
+dre comment et par quel processus le groupe CDF peut conquérir une marge
+d'autonomie et de manoeuvre suffisante dans le cadre d'une politique
+dictée et imposée à lui par les instances politiques et administratives.
+Afin de mieux cerner les possibilités d'action réelles du groupe CDF,
+d'apprécier les pressions et les résistances et de repérer les conflits,
+nous avons décidé de les différencier suivant les domaines : la production
+- 53 -
+(évolution, nature des mesures sociales envisagées), la tarification et
+la politique des prix, la politique salariale, les décisions financières
+(investissements, subventions, emprunts •.• ), la diversification industriel
+le (filialisation), la conversion industrielle, l'action commerciale
+(promotion des ventes, reconquête du marché national) et l'internationali
+sation (prise de participation et achat de mines à l'étranger).
+L'équipe procède actuellement à un dépouillement et à une analyse
+des documents internes à l'organisation du groupe CDF (rapports annuels
+de gestion, rapports et études divers internes à l'entreprise), ainsi
+qu'à une relecture systématique des rapports des commissions du Plan, de
+la Commission de Vérification des comptes des entreprises publiques
+jusqu'en 1976), puis de la Cour des Comptes. Les entretiens approfondis
+avec les acteurs concernés constitueront un stade ultérieur de la recherche.
+L'étude plus approfondie de certains des domaines retenus (tarifi
+cation et politique des prix, conversion industrielle) est actuellement
+en cours.
+Une dimension comparative est introduite également dans notre démarche
+par un examen similaire de la situation du National Coal Board en
+Grande-Bretagne. Il s'agit de voir son comportement dans l'application de
+la politique anglaise de récession minière et de repérer les différences
+avec la situation française.
+Calendrier
+L'ampleur de la recherche (rôle du groupe CDF dans l'application de
+la politique gouvernementale de récession charbonnière) nécessite une
+période de travail de deux années pour une équipe de quatre enseignants
+chercheurs. Une première étape, qui a début en Janvier 1986, est consacrée
+au dépouillement et à l'analyse des documents internes à l'organisation du
+groupe CDF. Corrélativement, des entretiens approfondis avec les acteurs
+concernés seront effectués à Paris et dans le bassin minier du Nord-Pas de
+Calais. La seconde étape sera tournée vers l'examen de chacun des domaines
+envisagés par les différents membres de l'équipe et à la confrontation des
+résultats obtenus.
+- 55 -
+6. AGRICULTURE, INDUSTRIE, SERVICES MUTATIONS SOCIO-ECONOMIQUES
+ET DYNAMIQUE DES SECTEURS
+6.1. L'ÉVOLUTION DES EMPLOIS DANS LES RÉGIONS DEPUIS LA CRISE
+Une approche sectorielle dynamique intégrée
+C.R.E.A./C.R.E.S.G.E. - L.A.B.O.R.E.S. (UA 362, CNRS/
+Fédération Universitaire et Polytechnique de Lille)
+Participants actuels
+Jean-Philippe AMMEUX, Chargé de Recherche, Sciences Economiques (LABORES)
+Jean-Philippe BOUSSEMART, Chargé de Recherche, Sciences Economiques
+(CREA-LABORES)
+Francis CALCOEN, Chargé de Recherche CNRS, Sciences Economiquès (CRESGE
+LABORES)
+Jean-Paul LAMBERT, Chargé de Recherche, Sciences Economiques (LABORES et
+CORE, Louvain la Neuve)
+Pierre MASSON, Ingénieur d'Etudes CNRS (CRESGE-LABORES)
+François MILLEQUANT, Chargé de Recherche CNRS, Sciences Economiques
+(CRESGE-LABORES)
+Olivier OGER, Directeur du CREA (LABORES)
+Objet, problèmatique, hypothèses et méthodes
+Au cours des dix dernières années, un schéma clair de l'évolution par
+secteur d'activité économique paraissait se dégager dans les pays occidentaux:
+- les effectifs du secteur agricole et du secteur industriel baissaient et
+ce mouvement était appelé à continuer, sous l'effet de la modernisation
+- 56 -
+des structures et du transfert des activités à fort coefficient de main
+d'oeuvre vers les pays à faible salaire ;
+- les effectifs du secteur tertiaire progressaient régulièrement, malgré
+la crise économique, et cette croissance était destinée à se poursuivre,
+par la progression de la demande des consommateurs dans des sociétés
+à haut niveau de vie ;
+Les rythmes d'évolution de ces deux types d'orientations divergentes
+devaient être fonction de l'intensité de l'intervention des nouvelles
+technologies, mais, sur le fond, on les considérait comme indépendantes
+l'une de l'autre.
+Or, il semble, à la lumière des comparaisons internationales et à
+l'examen de certaines situations régionales, que ce schéma doit être remis
+profondément en cause, ou tout au moins que l'on doive s'attacher davan
+tage aux complémentarités et aux interférences entre les évolutions
+observées dans les différents secteurs d'activité.
+1 - Il apparaîtrait tout d'abord que c'est dans les pays où la crise indus
+trielle a été la plus durement ressentie, que la diminution de l'emploi
+agricole s'est ralentie, toutes choses égales d'ailleurs quant aux
+caractéristiques propres des agricultures respectives, et à l'existence
+de forts excédents de population active agricole âgée. Symétriquement,
+c'est dans les pays où la crise économique a conduit. aux plus faibles
+réductions d'emplois industriels, que la diminution des emplois agri
+coles s'est poursuivie à un rythme élevé.
+L'explication que l'on peut avancer est que, faute de possibilité d'entrer
+dans le secteur industriel, le secteur agricole est apparu pour certains
+ruraux candidats à "l'exode" comme un refuge contre le ch6mage, permettant
+de conserver son emploi, tout en réduisant son revenu. Le résultat, dans
+les pays concernés par ce phénomène, est à l'heure actuelle une forte crise
+du niveau de vie des agriculteurs et d'une aggravation de leur endettement.
+Il faut souligner, de ce point de vue, que les régions françaises dont la
+- 57 -
+situation agricole est la plus préoccupante sont aussi souvent celles où
+l'environnement industriel est particulièrement dégradé.
+2 - En second lieu, les comparaisons internationales sur au moins trois
+pays (France, R.F.A., Royaume-Uni) indiquent également une forte
+relation entre l'évolution de l'emploi dans le tertiaire et dans
+l'industrie : plus les emplois industriels reculent, moins les emplois
+tertiaires augmentent. La poussée de l'emploi dans les services n'est
+forte que si l'évolution des effectifs industriels est nulle ou légè
+rement positive, jamais lorsqu'elle est négative. Ceci est assez bien
+vérifié également en ce qui concerne la plupart des pays de l'O.C.D.E.,
+à l'exception de l'Italie. Nos propres travaux tendent à montrer que
+ce serait aussi le cas du Nord-Pas de Calais.
+D'une façon générale, il n'y a pas d'expansion autonome possible du secteur
+des services qui viendrait compenser la baisse des emplois industriels :
+si la conjoncture industrielle est trop mauvaise, les limites du dévelop
+pement des services sont rapidement atteintes.
+Le mécanisme paraît reposer sur une double relation entre services et
+industrie :
+-en amont de l'industrie, les services marchands aux entreprises
+s'implantent et se développent dans un environnement dynamique et de
+nouveaux projets (prestataires informatiques, bureaux d'étude, agences de
+publicité •.• )
+-en aval de l'industrie, les commerces, les services aux particuliers,
+les services publics sont aussi directement influencés par elle, par au
+moins trois mécanismes
+• par les revenus supplémentaires procurés par l'industrie, qui se
+porteront sur les domaines pour lesquels l'élasticité de la demande
+est élevée : santé, hygiène, loisirs, dépenses culturelles ;
+- 58 -
+• par l'amélioration des possibilités de financement des services
+publics et des régimes sociaux ;
+• par la baisse des prix relatifs que permet le développement des
+productions et des productivités, permettant un déplacement de pouvoir
+d'achat en provenance de dépenses sur des biens industriels vers de
+nouvelles consommations, souvent des services.
+3 - Ces constations, assez bien développées au niveau des comparaisons inter
+nationales globales, paraissent mériter un approfondissement régional
+particulier. Dans ses grandes lignes, la démarche envisagée consiste
+- à sélectionner, dans un premier temps, quelques régions françaises
+et étrangères (le cas de la Belgique est de ce point de vue particuliè
+rement intéressant), ou bien fortement touchées par la crise industriel!~
+par exemple le Nord-Pas de Calais et la Province wallonne, ou bien
+relativement épargnées par elle, par exemple la Région Rh8ne-Alpes
+(ou la Bretagne) et la Province flamande, cette base pouvant être
+étendue, par la suite, à l'ensemble des régions européennes
+- à raisonner sur des niveaux sectoriels relativement fins, correspondant
+si possible à la NAPlOO ou son équivalent OSCE, à partir d'informations
+portant sur les dix dernières années, issues des sources nationales
+(INSEE, INS) et internationales (EUROSTAT) ;
+- à isoler par des méthodes appropriées inspirées des travaux récents
+des intervenants dans le domaine de l'analyse régionale, les diffé-
+rents facteurs pouvant influencer globalement les évolutions de l'emploi
+dans ces secteurs : conjoncture nationale et internationale, politiques
+économiques globales ou sectorielles, diffusion générale des technologies
+nouvelles, effets démographiques, structures initiales du tissu
+productif, afin de mettre en évidence les spécificités en matière d'emploi
+des régions analysées ;
+- enfin, à utiliser ces résultats afin d'établir les relations qui sont
+susceptibles d'apparaître entre les évolutions, propres aux régions,
+- 59 -
+des emplois agricoles, industriels et tertiaires, et confirmer (ou
+éventuellement infirmer) les hypothèses de travail énoncées ici et
+d'en mesurer les conséquences pour la politique régionale, dans le
+cadre des différentes économies européennes concernées.
+Collaborations, institutions et organismes impliqués
+Cette opération, en cours de montage, fait intervenir pour le moment les
+deux centres de recherches économiques membres du LABORES dirigé par
+M. FALISE. Elle est susceptible de s'inscrire, dans une phase ultérieure,
+dans le thème de la dynamique productive et des espaces socio-économiques
+localisés, du Schéma Directeur 1986-1988 du P.I.R.T.T.E.M.
+6,2, LA SITUATION COMPAREE DES ËCONOMIES DES ETATS-UNIS ET
+DE FRANCE DANS LA DIVISION INTERNATIONALE DES SERVICES
+~A
+L.A.S.T. - C.L.E.R.S.E. (UA 345, CNRS/Université
+de Lille I)
+*
+CENTRE EUROPEEN JOHNS HOPKINS
+Equipe de recherche
+Jean-Claude DELAUNAY, Maître de Conférences, Sciences Economiques,
+(LAST-CLERSE)
+Jean GADREY, Maître de Conférences, Sciences Economiques, (LAST-CLERSE)
+Florence CATRICE, Chercheur 3ème cycle (Lille I) et Research Fellow
+(Université Johns Hopkins)
+*Le Centre Européen Johns Hopkins pour la Planification et l'Analyse Régio
+nale est une unité de recherche créée sur la base d'une convention entre
+le Conseil Régional du Nord-Pas de Calais et The Johns'Hopkins University
+(Baltimore, U.S.A.). Il bénéficie du soutien de l'U.S.T.L. (Lille Il
+dans les locaux de laquelle il est installé. Il est dirigé par John W. DYCKMAN,
+Professeur de Géographie et Sciences de l'Environnement à l'Université
+Johns Hopkins, assisté de Frank ~OULAERT, Directeur-adjoint.
+- 60 -
+Participation
+John W. DYCKMAN, Professeur à l'Université Johns Hopkins (Centre Euro
+péen Johns Hopkins)
+Frank MOULAERT (Centre Européen Johns Hopkins)
+Objet de la recherche
+Le point de départ de cette recherche est le besoin exprimé par la
+plupart des acteurs économiques, nationaux et internationaux, de comprendre
+la dynamique des services, qui paraît étonnante en période de ralentis
+sement de l'activité productive, mais qui n'est pas à l'abri de crises
+sectorielles, ou plus globales. Or si le cadre national fournit déjà des
+indications sur cette dynamique, il est de plus en plus étroit au fur et
+à mesure que l'internationalisation de la production et de la consommation
+touche les services eux-mêmes.
+Les services sont envisagés en tant que
+nouveaux "facteurs de production", en forte croissance, et connaissant
+déjà un haut degré d'internationalisation ;
+-nouveaux "facteurs de consommation", car trop d'études n'envisagent que
+la logique de développement des services aux producteurs, probablement
+plus facile à circonscrire, et dont les acteurs sont mieux identifiables ;
+- nouveaux "facteurs de régulation sociale", c'est-à-dire de gestion des
+rapports entre les agents économiques, à l'intérieur ou à l'extérieur
+des unités traditionnelles de la production.
+Sur cette base tripolaire, il est envisagé d'étudier la façon dont se
+mettent en place des formes de spécialisation internationale ou de polari
+sation :
+de la production de ces nouveaux services,
+- de leur consommation intérieur et internationale,
+- de leur intervention régulatrice (locale, étatique, inter-
+nationale).
+- 61 -
+Méthodologie et étapes
+Cette recherche se développera en quatre étapes
+1 - Une analyse, sur la base de la bibliographie existante, et de contacts
+directs avec les institutions internationales, des tendances et des
+lignes de force depuis une vingtaine d'années (avec une insistance
+particulière sur la période 1975-1985), de la division internationale
+des services. Ceci exige de faire le point sur :
+- la nature, la qualité, la comparabilité des sources statistiques
+nationales et internationales (FMI, OCDE, CNUCED, GATT, etc .•• )
+- la façon dont les théories de la spécialisation internationale
+prennent en considération les aspects spécifiques des services,
+et les raisons qui peuvent expliquer leurs défaillances à ce
+propos
+l'établissement d'une sorte de première carte géographique des
+spécialisations en matière de services produits et échangés ;
+- un bilan de ces mêmes questions distinguant les trois grandes
+catégories de destination des services.
+2 - Une spécification et un affinement de ce premier bilan visant à mettre
+en relation les caractéristiques des systèmes de production et de
+consommation nationaux et leur potentiel d'action sur le marché inter
+national. Les cas de la France et des Etats-Unis seront ici traités
+de façon approfondie (analyse comparative des structures d'activité
+des services, interprétation des différences constatées).
+La problématique interne/externe devra comporter l'analyse de la dyna
+mique (en valeur, volume, investissements, emplois, qualifications) de
+la production des services, de leur utilisation (tableaux issus des
+comptabilités nationales, enquêtes d'entreprises, analyses de la consom
+mation finale de services), afin de mettre ces caractéristiques en
+- 62 -
+relation avec la demande et l'offre internationales. Elle aura en
+outre l'intérêt de mettre l'accent sur la dimension de la demande
+(nationale et internationale) et de ses transformations, trop souvent
+négligée dans les études de division internationale du travail, et
+sur l'histoire du développement des services depuis un siècle en
+France et aux Etats-Unis.
+3 - Mais ces premières étapes, statistiquement et théoriquement lourdes,
+ne fournissent que peu d'éléments sur la nature fine de la compétition
+internationale et sur les stratégies des principaux acteurs (firmes
+multinationales ou entreprises exportatrices, Etats). La troisième
+étape de la recherche (qui débuterait avant la fin des deux premières,
+dans la mesure où elle en est partiellement indépendante) serait une
+enquête auprès des firmes à vocation internationale, productrices
+ou fortement utilisatrices de nouveaux services, ou diversifiant, à
+partir d'une base initiale manufacturière, leur activité en direction
+des services. L'étude porterait ici non pas sur un "échantillon
+représentatif" (concept au demeurant peu pertinent dans le cas présent)
+mais sur un "ensemble significatif" de firmes françaises et américaines
+soumises à une étude approfondie (environ une vingtaine). Le question
+naire (tout à fait nécessaire) et les études des données disponibles
+sur ces firmes (qui seront rassemblées et traitées) ne constitueront
+donc pas les seuls éléments de ces "études de cas" : l'objectif princi
+pal est la réalisation et 1 'utilisation d'entretiens approfondis avec
+les responsables et dirigeants de ces firmes. Sans sous-estimer les
+difficultés de cette démarche, elle semble indispensable et possible,
+compte-tenu des contacts internationaux déjà engagés et des portes
+que peuvent nous ouvrir des institutions internationales favorables
+à un tel travail. De plus, des spécialistes américains de ces questions
+(T. NOYELLE, Columbia University ; E. SCHOENBERGER, J. Hopkins à
+Baltimore) sont prêts à nous introduire auprès de plusieurs grandes
+entreprises intéressées.
+Enfin, le terme de "firme" inclut ici des institutions des secteurs
+de la santé et de l'enseignement, dont on se demandera quelles sont
+leurs perspectives d'internationalisation marchande ou semi-marchande.
+- 63 -
+4 - L'étape précédente, d'analyse des "stratégies", qui privilégie les
+acteurs de la production, devra alors être recomposée avec les études
+issues des trois étapes antérieures, afin d'aboutir à une interpré
+tation centrée sur les situations comparées de la France et des
+Etats-Unis.
+Durée de la recherche 2 ans 1/2
+Etapes 1 et 2 : 1 an : rapport intermédiaire: fin 1987.
+Début des enquêtes et entretiens : fin 1987.
+Etudes de cas : début :premier semestre 1988.
+Phase finale : premier semestre 1989.
+Coopérations
+Cette opération prend place dans le Projet International sur les Services
+(coordination: Centre Européen Johns Hopkins), auquel participent d'ores
+et déjà, outre les chercheurs déjà cités, trois équipes animées par :
+- Piet COPPIETERS, Professeur d'Economie, USFIA, Anvers (Belgique)
+- Thierry NOYELLE, Senior Research Fellow, Columbia University,
+New York (U.S.A.)
+- Pieter TORDOIR, TNO, Delft (Pays-Bas).
+Organismes impliqués
+Dans le Comité Scientifique : Commissariat Général au Plan (Monsieur
+Bernard FLEURY), Programme FAST (Monsieur Sven ILLERIS, EEC, Bruxelles),
+Economisch Geografisch Instituut, Amsterdam (Monsieur Yan LAMBOOY,
+Professeur d'Economie, Directeur), I.F.R.E.S.I. (Monsieur Michel SIMON,
+Directeur), Groep Beleistudies en Informatie, TNO, Delft (Monsieur
+W.C.L. ZEGVELD, Directeur).
+- 64 -
+COLLOQUE INTERNATIONAL "DYNAMIQUE DES SERVICES ET THEORIES ECONOMIQUES"
+(30 Janvier 1987).
+Colloque organisé conjointement par l'I.F.R.E.S.I. et le Centre Euro
+péen Johns Hopkins. Responsable du collectif d'organisation : Jean GADREY.
+La liste des organismes impliqués et apportant leur soutien sera publiée
+incessamment.
+- 65 -
+7. LA DYNAMIQUE DES POPULATIONS DES PAYS INDUSTRIALISES
+LE CAS DE L'EUROPE DU NORD-OUEST
+(France septentrionale, Benelux, Angleterre)
+Opêration de recherche internationale
+engagêe en 1984.
+Noms et qualités des participants et organismes impliqués
+I.F.R.E.S.I.
+-Laboratoire de Géographie Humaine de l'Université de Lille I.
+Equipe de démogéographie : '
+-Pierre-Jean THUMERELLE, Professeur, responsable de l'opération
+- Benjamin KOSTRUBIEC, Professeur
+- Henri ADAM, Maitre de Conférences
+- Jean-Pierre RENARD, Maître de Conférences
+- Jean-Pierre BONDUE, Assistant.
+AUTRES ORGANISMES
+-Laboratoire de Géographie Humaine de l'Université de Paris I.
+Groupe GUEPES :
+- Daniel NOIN, Professeur
+- Yvan CHAUVIRE, Maître de Conférences
+- Laboratoire de Géographie Humaine de l'Université Libre de Bruxelles
+- Christian VANDERMOTTEN, Chargé de cours
+- Jean-Pierre GRIMMEAU, Chercheur FNRS
+-Département de Démographie de l'Université Catholique de Louvain
+- Michel POULAIN, Chercheur FNRS
+- Christine WATTELAR, Première assistante
+- Laboratory of Human Geography, University of Durham
+- John CLARKE, Vice-pro-chancellor.
+- 66 -
+Objet
+Analyse comparative internationale de populations en situation post
+transitionnelle et des liens entre la dynamique des populations, la
+dynamique des sociétés et la dynamique de l'espace, animée par l'équipe
+de démogéographie du Laboratoire de Géographie Humaine de Lille I.
+Problématique de la recherche
+Un ensemble de changements de toutes natures a bouleversé en une géné
+ration les fondements démographiques des sociétés des pays développés et
+plus particulièrement des pays européens. La dynamique spatiale est forte
+ment conditionnée par ce changement, len~ parfois imperceptible, mais
+décisif : disparités de la croissance globale, substitution de transferts
+aux phénomènes de répartition des excédents démographiqus, vieillissement,
+modification des rapports entre générations, modification des besoins et
+de la mobilité induites par les changements structurels etc ••• Cependant
+chaque unité géographique a conservé des traits socio-démographiques qui
+lui sont propres ou plutôt ces populations se différencient dans l'espace
+en épousant plus ou moins bien les divisions spatiales habituelles des
+géographes régionaux.
+Quelle est la dialectique qui s'établit entre ces trois éléments indis
+sociables du trinôme : populations, sociétés, espace ?
+Dans ce type de recherche on se heurte vite à une irréductibilité
+entre deux niveaux : celui des acteurs et celui de l'organisation collec
+tive, le premier relevant des caractéristiques individuelles, des poten
+tialités successives qui s'offrent aux individus et de leurs décisions
+au cours de leur cycle de vie, le second de l'organisation socio-spatiale.
+Pour dépasser cette irréductibilité, il faut repenser le concept de
+population et lui donner un nouveau contenu démographique, en ne le consi
+dérant plus comme un agrégat d'individus mobiles, agrégat défini par des
+limites administratives, plus ou moins pertinentes, mais comme une struc
+ture complexe et évolutive. Ce n'est plus l'agrégat, mais l'agencement
+des éléments entre eux dans l'espace et dans le temps en fonction d'un
+- 67 -
+système d'interrelations qui détermine les populations.
+Actions programmées
+1 - Recherche théorique et épistémologique sur le concept de population
+en géographie. Poursuite des travaux initiés dans le cadre du Séminaire
+européen "Réflexion épistémologique sur la géographie de la population".
+Analyse des vocabulaire géographique et démographique et proposition
+d'un vocabulaire mieux adapté aux besoins de la démogéographie. Recherche
+sur le rôle de l'échelle et les effets de seuil en démogéographie doit-on
+distinguer des lois de voisinage dont l'effet s'estompe au fur et à mesure
+de l'élargissement de l'espace (l'ordre proche), et des lois globales,
+nettes à grande échelle et indécelables à petite échelle (ordre lointain) ?
+Application à la mobilité spatiale des populations depuis 1 'échelle mon
+diale jusqu'aux échelles locales et depuis l'échelon s€culaire jusqu'à
+l'échelon conjoncturel.
+2 - Les mutations démographiques en période post-transitionnelle :
+analyse aux différentes échelles régionales, nationales et continentales,
+des changements de toutes natures qui affectent le comportement et les
+structures des populations des pays industrialisés et plus particulièrement
+les populations européennes, comme l'accroissement de la longévité, la
+chute de la fécondité, les nouveaux modèles familiaux et matrimoniaux,
+les migrations internationales, les nouvelles formes de mobilité interne,
+de répartiton géographique de la population et leurs implications etc ..•
+Recherche des causalités et des interrelations entre les mutations des
+populations, les transformations des espaces urbanisés et le changement
+social et socio-économique.
+Principales opérations en cours dans ce cadre
+- réalisation d'un atlas des populations européennes (à l'échelon des
+départements ou équivalents administratifs, Europe au sens géographique
+du terme, pays de l'Est et du Nord compris) : 1° sortie en 1985.
+- 68 -
+- analyse des différences géographiques de la mortalité, par âge, par
+sexe et par causes, à l'échelon des arrondissements français (plus pronon
+cées que les différences socio-professionnelles et tout aussi stables dans
+le temps) ; mise en relation des combinaisons observées avec les spécifi
+cités des milieux géographiques.
+3 - La mobilité spatiale : analyse des diverses formes de mobilité
+dans un espace régional, des flux qu'elles engendrent et des interrelations
+entre ces formes et ces flux (migations internationales, migrations inter
+régionales, migrations intra-régionales, navettes de travail, navettes de
+chalandise etc ••• ), en liaison avec l'organisation de l'espace, les
+modes de vie, les incitations à la mobilité etc ••• Réflexion sur le degré
+de dépendance des mouvements les uns par rapport aux autres et sur la
+stabilité des liaisons en fonction de l'échelle spatiale temporelle.
+Analyse du lien entre migration et système de mobilité si on considère
+les populations comme des ensembles dont la durabilité procède de phéno
+mènes de réajustement permanent, la mobilisation ou la modification d'un
+élément de l'ensemble entraînant automatiquement la mobilisation ou la
+modification d'autres éléments, le phénomène migratoire n'apparaît plus
+comme un phénomène autonome, mais comme une des formes du réajustement
+permanent. L'appréhension de la migration ne se conçoit plus dès lors
+qu'à travers un certain nombre de continua qui se développent simultanément
+dans plusieurs directions. La mobilité spatiale forme-t-elle un système
+ouvert d'interrelations entre les individus, les populations, les sociétés
+l'économie et l'espace (étudiable dans son organisation interne, son
+fonctionnement et son évolution à travers l'imbrication des différentes
+échelles spatiales et temporelles et ses articulations avec l'environnement
+spatial et socio-économique), qui se calquerait sur celui de l'organisation
+spatiale et en subirait passivement les modifications, ou fonctionne-t-elle
+de manière sélective par rapport aux tensions d'orgines diverses qui
+s'expriment à travers l'organisation de l'espace et le fonctionnement des
+sociétés en mettant en jeu différentiellement les groupes et les individus
+en fonction de leur potentiel et de leurs déterminants propres ?
+Application à la région Nord-Pas de Calais, véritable laboratoire d'étude
+- 69 -
+de la mobilité, compte tenu de ses structures urbaines, de son organisation
+spatiale en une mosaïque de sous-régions, des chocs économiques, sociaux
+et culturels qui contraignent à la mobilisation une population tradition
+nellement réticente et fortement repliée sur ses espaces de vie.
+4- Les perspectives démographiques à l'échelon régional et urbain
+établissement d'un modèle de projection démographique à différentes
+échelles géographiques : prise en compte des changements structurels et
+de leurs implications dans les politiques et la planification économiques
+et sociales, notamment en ce qui concerne des phénomènes comme le vieillis
+sement, la multiplication des ruptures d'union et le développement du
+célibat, la diminution de la taille des familles et du nombre d'enfants ..• etc.
+Prise en compte de la mobilité (par flux et non par soldes) induite par
+les sollicitations du milieu (dont la situation de l'emploi n'est qu'un
+élément), et les relations entre le cycle de vie des individus et le
+potentiel du milieu (stock de logements en particulier). Deux opérations
+sont privilégiées :
+- l'analyse des besoins locaux en matière de projections démographiques
+et des possibilités d'y répondre ;
+- l'analyse comparative du vieillissement des populations urbaines en
+France et en Angleterre (1° séminaire organisé à Londres en Juillet 1986,
+sous le patronage et avec le financement de l'Ambassade de France au
+Royaume-Uni et du G.B. Department of Health and Social Security).
+Méthodes de travail
+Ce qui fait défaut à la plupart des analyses démographiques, c'est une
+insuffisante prise en compte de l'ordre spatial et de ses contingences.
+Ce qui fait défaut à la plupart des analyses géographiques ou socio
+démographiques, c'est une insuffisante prise en compte de l'ordre démogra
+phique et des inerties inscrites dans ses structures et les comportements
+des populations. Une des orginalités de l'équipe, c'est sa double compétence
+- 70 -
+sur le plan géographique et démographique, l'ouverture pluridisciplinaire
+et une large pratique de la coopération internationale, jalonnée par la
+création de la revue "Espace-Populations-Sociétés", et un Programme
+d'Etude CEE.
+- la recherche, qui a débu~ en 1984, a été conduite dès le départ en
+parallèle en France et en Belgique, puis dès 1985, en Angleterre.
+- l'analyse sur un même thème est conduite à l'initiative des petites
+équipes énoncées plus haut, qui se chargent de trouver des collaborations
+auprès d'organismes nationaux (l'INSEE, l'INED, la DATAR dans le cas de
+la France) ou internationaux (Commission des Communautés Européennes,
+Union Géographique Internationale).
+les membres permanents du groupe de travail se réunissent plusieurs
+fois l'an pour échanger les informations recueillies, définir les méthodes
+de travail, élaborer et discuter les problématiques, examiner les diffé
+rences induites par les sources disponibles et les pratiques politiques,
+sociales et juridiques des Etats.
+- des séances de travail plus élaborées ont lieu régulièrement à
+l'occasion de grandes rencontres scientifiques ou de séminaires organisés
+par l'Equipe de recherche.
+Financement
+Les moyens sont les moyens ordinaires des équipes, complétés par une
+aide incitative de la Commission des Communautés Européennes, précaire et
+non renouvelable après 1987, pour la tenue des réunions périodiques.
+Le problème actuel est de trou-v·er une assise stable et régulière pour
+- l'organisation des rencontres et les surcoûts entraînés par la
+coopération internationale ;
+- un certain soutien aux opérations en cours difficilement financées.
+- 71 -
+8. CENTRE D'HISTOIRE DES ENTREPRISES DU NORD-PAS DE CALAIS -
+1986-1987
+P~RIODE
+Nom et qualité des participants
+- Equipe responsable
+Michel BATTIAU, Géographe, Lille III
+Albert BRODER, Historien, Lille III (UA 1020)
+Jean-Pierre DAVIET, Historien, CNRS/Lille III (UA 1020)
+Jean-Pierre DEBOURSE, Gestion, Lille I
+Marcel GILLET, Historien, Lille III
+2 - Unités CNRS Associées
+- UA 936 Economie de la Firme (CNRS/Lille I)
+Vie des Firmes en longue période.
+Directeur : J.P. DEBOURSE
+- UA 1020 Croissance et développement dans le Nord de la France
+(CNRS/Lille III)
+Directeur : A. BRODER
+3- Autres ch~rcheurs membres du centre d'histoire des entreprises du
+Nord-Pas de Calais
+Gérard GAYOT, UA 1020
+Jean-Pierre HIRSCH, UA 1020
+Jean-Paul THUILLIER, UA 1020
+Joël MICHEL, UA 1020
+M. ROSSEL, UA 1020
+Isabelle DANJOU, UA 936
+Jean-Luc SYSSAU, UA 936
+Jean-Pierre DEMESSINE, UA 936
+Joël BAFCOP, UA 936
+Sandra MURAD, UA 936
+Laurence BACART, UA 936
+Nicole BAYEN, UA 936
+Pascale BRENET, UA 936
+- 72 -
+Objet, problématique, hypothèses
+L'histoire des entreprises constitue un champ particulier dont la
+situation en France ne va pas sans ambiguïté. Si on peut citer nombre
+d'ouvrages qui s'y rattachent, il n'existe pas de chaire universitaire
+qui s'y consacre ni de centre spécifique, contrairement à ce qui a lieu
+dans les autres pays industriels comparables, en particulier aux U.S.A.
+et en Grande Bretagne, et la production scientifique reste insuffisante.
+Faire progresser la recherche dans ce champ est un objectif prioritaire,
+surtout dans une région au passé industriel aussi riche que le Nord.
+Un tel objectif intéresse un premier noyau de chercheurs qui sont des
+chercheurs en histoire, en géographie et en gestion, soucieux d'appro
+fondir leurs disciplines respectives, mais aussi de faire converger leurs
+efforts jusqu'ici dispersés.
+L'originalité de l'histoire d'entreprise peut se définir de deux
+façons. D'un côté, par l'utilisation d'archives d'entreprises (qu'elles
+soient déposées dans un centre d'archives public ou qu'elles soient
+conservées Far les entreprises), considérées aujourd'hui comme un élément
+de patrimoine historique. D'un autre ~ôté par un objet : il s'agit de
+considérer l'entreprise comme centre de décision relativement autonome,
+ou comme organisation, d'où une analyse p~rtinente du système du pouvoir,
+des relations de coopération/conflit de ses 2cteurs, de la création
+technique et de la stratégie, ainsi que des re:ations complexes entretenues
+avec l'environnement (concurrents, consommateurs Etat etc .•• ).
+Selon les origines et traditions disciplinairea, les angles d'attaque
+et les problématiques initiales peuvent varier. Mais dan~ tous les cas,
+la confrontation et la coopération s'imposent, d'abord pou1 la collecte,
+le stockage et la mise à disposition des données, mais aussi ~our l'élabo
+ration scientifique elle même.
+- 73 -
+L'évolution des firmes et ses déterminants l'approche des chercheurs en
+gestion
+C'est ainsi, par exemple, que les chercheurs en gestion impliqués
+dans le projet développent depuis plusieurs années une problématique
+commune, au sein de l'Unité Associée au CNRS 936 "Economie de la firme,
+vie des firmes en longue période". Leur objectif est de comprendre
+pourquoi certaines entreprises naissent, se développent, se transforment
+en groupe, pourquoi d'autres stagnent ou régressent, pourquoi certaines
+entreprises disparaissent alors que d'autres subsistent face à des aléas
+et à un environnement similaires.
+Trois groupes d'hypothèses orientent la recherche :
+1 - les facteurs d'évolution : Il n'y a pas de facteurs évolutifs univer
+sellement prédominants. L'évolution se fait globalement par l'inter
+action des différents champs d'activité de la firme. Entrent en jeu
+des forces historiques (faits du passé qui opèrent ou favorisent une
+orientation de l'évolution), des forces aléatoires (faits sur lesquels
+l'entreprise n'a pas de prise directement : aléas de la conjoncture,
+action des concurrents, décès d'un dirigeant, action des pouvoirs
+publics, etc ••• ) et des forces intentionnelles (actions mises en
+0euvre par les membres de l'entreprise).
+2 - les modes d'évolution L'évolution se fait, au travers de deux types
+de changement :
+• les changements incrémentaux (processus adaptatifs continus d'inter
+action entre les différents composants de l'entreprise et du couple
+entreprise-environnement, opérés à l'intérieur d'une même orientation
+- 74 -
+stratégique) ;
+• les changements mutationnels (tournants stratégiques qui s'expriment
+à travers les choix décisifs pris par un nombre restreint d'individus
+et portant sur des éléments-clefs déterminant l'orientation de l'entre
+prise).
+3 - Le processus d'évolution : L'évolution des entreprises oeut être
+décrite comme une succession de périodes d'évolution graduelle, progres
+sive, ponctuée de ruptures.
+Ces ruptures résultent de la remise en cause de l'orientation straté
+gique de l'entreprise ainsi que des systèmes de valeurs et de repré
+sentations qui soustendent cette orientation, par des démarches
+anticipatrices ou par l'influence de faits perturbateurs. Le rôle du
+directeur général est alors déterminant.
+Les options et les valeurs porteuses d'évolution ne le sont que pendant
+un temps fini. Il est donc capital pour l'entreprise d'effectuer
+les adaptations fondamentales à temps sous peine d'arrêt du processus
+évolutif à plus ou moins long terme menant à sa disparition ou à son
+absorption.
+L'approche retenue repose ainsi sur
+- une analyse multidimensionnelle et multidisciplinaire des facteurs expli
+catifs et de leur interaction. Il s'agit de respecter la complexité du
+phénomène étudié et de l'entreprise, organisation complexe fonctionnant
+en processus interactifs dans lesquels de très nombreuses variables entrent
+en jeu.
+- une perspective historique qui cerne l'impact des enchaînements temporels,
+des causalités temporelles.
+-l'analyse du rôle décisif des acteurs de l'entreprise qui interférent dans
+les déterminismes qui pésent sur l'évolution de leur firme,
+- 75 -
+-l'analyse des éléments clefs de l'évolution, des phénomènes de rupture.
+Ces diverses caractéristiques de l'approche appellent le dépassement
+des explications gestionnaires traditionnelles de l'évolution des firmes
+et leur enrichissement par l'apport d'autres disciplines : l'histoire,
+mais aussi la géographie et la sociologie.
+Elles appellent également une méthodologie qui respecte la richesse
+qualitative et la globalité de la recherche.
+L'outil d'investigation qui répond le mieux à ces exigences est la
+monographie puisqu'elle permet l'observation et la compréhension en
+profondeur de réalités complexes et composites, envisagées de l'intérieur,
+concrêtemenb, à travers le temps. C'est donc la méthode retenue pour :
+- explorer le passé de diverses entreprises, de leur création à leur
+passé immédiat
+- élaborer une connaissance "intelligible" du parcours de ces entre
+prises par l'intégration des données dans une explication globale.
+Il s'agit de repérer les phénomènes de coordination, de dégager les
+éléments explicatifs dans la diversité et la densité des évènements
+historiques.
+- combiner et comparer les différents cas d'entreprise et en extraire
+des invariants au niveau des processus et des facteurs évolutifs,
+La collecte des données se fait à partir d'une analyse des documents
+disponibles et d'une série d'entretiens en profondeur sélectionnés de
+manière à obtenir un éclairage différencié des diverses facettes de
+l'évolution de l'entreprise et de son environnement.
+Le traitement des données quantitatives consiste à établir des séries
+chronologiques d'indicateurs tels que le chiffre d'affaires ou le bénéfice
+net. Les données qualitatives fournies tant par l'analyse documentaire
+que par les entretiens, font l'objet d'une analyse thématique (analyse
+du contenu classique et qualitative) pour dégager des axes d'interprétation.
+- 76 -
+L'approche des historiens
+L'unité associée au CNRS 1020 "Croissance et développement dans le
+Nord de la France" (Histoire) comporte un groupe "l'histoire des entre
+prises et des entrepreneurs". Ce groupe se donne pour objectif d'expliquer
+dans la longue durée quelle a été la contribution des entreprises à la
+croissance régionale en approfondissant des centres de réflexion liés
+à la sociologie des acteurs, aux stratégies économiques mises en oeuvre
+et à la production des représentations culturelles et en distinguant
+des types ou modèles historiques.
+Les historiens ont particulièrement étudié jusqu'ici les conditions
+d'apparition des entreprises du XVIIIe au XXe siècle : typologies des
+fondateurs d'entreprises, origines des capitaux, rôle des héritages et
+des stratégies patrimoniales, attitudes devant le risque, interpénétration
+entre négoce et industrie etc .•• Ils recherchent continuités et ruptures
+dans les comportements entrepreneuriaux des détenteurs du capital et des
+entrepreneurs salariés : ainsi l'ouverture au progrès techn~que, modes
+de gestion, structures du pouvoir, styles de relations sociales, montée
+des ingénieurs, réactions face au système étatique. Bref ils répondent
+à la question : quels sont les homme& qui conduisent et gèrent l'écono
+mique, quelles sont les élites qui mettent en oeuvre la volonté commune
+de l'entreprise, quels sont les jeux dans l'organisation?
+Pour ce qui est du processus d'allocation des ressources et des
+enchaînements stratégiques, les historiens distinguent des vagues d'indus
+trialisation et de désindustrialisation, des phases de déclin ou de
+reconversion. Mais il s'agit là de tendances d'ensemble qui entraînent
+une région ou une branche : il faut entrer dans les mécanismes de la
+cellule de base pour savoir quelles sont les forces et les faiblesses
+d'une entreprise à date donnée (facteurs techniques, commerciaux, humains,
+financiers •.• ), en quoi ses politiques sont ou non typiques, pour quelles
+raisons elle s'adapte ou non, où sont les grandes ruptures.
+La monographie d'entreprise appelle la comparaison avec d'autres cas,
+soit dans le milieu local, soit au niveau national ou international. La
+tentation de l'historien pourrait être le déterminisme, tant sont massives
+les tendances observées : mais certaines entreprises saisissent des
+- 77 -
+chances que d'autres négligent, dynamismes et forces de blocage se
+combattent en un équilibre instable. D'ores et déjà certains travaux
+ont pu procéder à une sorte de radiographie de l'organisme d'une entre
+prise dans la longue durée, en mettant en lumière les divers passages
+délicats qui jalonnent la route de l'exploitation familiale d'un atelier
+à l'administration de la société anonyme ou à la société holding qui
+gère des intérêts multinationaux. Mais il est souhaitable que de telles
+études se multiplient.
+Les historiens sont enfin sensibles à ce qu'on appelle parfois l'iden
+tité culturelle de l'entreprise, ou culture d'entreprise, notion qui
+mériterait d'être davantage explorée. D'un certain côté, l'entreprise
+a une culture : processus d'acculturation par le travail et par des
+pratiques symboliques diverses (tradition, valeurs, loisirs, gestes •.• ).
+D'un autre côté, l'entreprise est une culture, un système cohérent de
+phénomènes sociaux, ce qui affecte tant les mentalités que des faits
+proprement économiques (organisation des structures, gestion financière
+etc ••• ).
+L'approche des géographes
+Les géographes analysent le tissu industriel de l'espace régional
+Nord-Pas de Calais en procédant à des comparaisons avec les "vieilles
+régions industrielles" (type Lorrain, Lancashire, Wallonie, etc •.• ) et
+en y distiguant des "bassins d'emplois" juxtaposés, dont les limites
+englobent celles de l'espace vécu de la majeure partie de la population
+qui y demeure (ainsi l'agglomération de Roubaix-Tourcoing). Un espace
+peut être caractérisé par une concentration locale d'un type d'emplois
+(le textile, la sidérurgie par exemple), ou par une relative diversifi
+cation (présence de firmes appartenant à des filières distinctes}. Dans
+le premier cas, l'espace bénéficie de l'essor du secteur au cours d'une
+période plus ou moins longue où une même industrie engendre une forte
+croissance (mines, sidérurgie, textile au XIXe siècle, automobile dans
+les années 1960), mais, à long terme, le mode d'organisation de l'espace
+n'est pas propice à l'émergence des innovations. Dans le second cas, des
+synergies naissent des contacts, des échanges et d'interférences techno-
+- 78 -
+logiques non prévues a priori (brassage des individus, des idées, des
+expériences professionnelles).
+Dans cette perspective l'histoire des entreprises ne peut être séparée
+de l'explication de la répartition spatiale des activités (phénomènes
+d'hyperconcentration spatiale, d'hyperspécialisation, ou au contraire de
+diversification) et du dynamisme d'un espace local ou régional. Il ne
+s'agit pas seulement de l'étude spatiale d'une firme particulière (exemple
+localisation du siège social, des usines, des voies d'approvisionnement
+des matières premières et de l'écoulement des produits, croissance de la
+firme par expansion de la même activité en d'autres lieux ou par induction
+d'autres branches dans le foyer de localisation principal), mais du mode
+d'organisation de l'espace par un ensemble de firmes voisines, appartenant
+ou non au même secteur (concentration des investissements, types d'emplois
+offerts, effets migratoires attractifs ou dissuasifs, domination de l'espace
+local par les élites entrepeneuriales etc ••• ).
+* *
+*
+Dans le cadre de l'I.F.R.E.S.I., le centre d'histoire des entreprises
+du Nord développera une véritable approche pluridisciplinaire des spécia
+listes de géographie, d'histoire et de gestion appliquée à l'étude de
+l'entreprise et de son évolution. La conjonction des trois disciplines
+aura un effet bénéfique dès la collecte des données et dès la constitution
+des bases d'information par la prise en compte des systèmes d'information
+spécifiques à chaque discipline. Un même effet positif est à attendre
+au niveau des problématiques, de la méthodologie et de la démarche
+explicative.
+Au delà de leur intérêt scientifique, les travaux du centre devraient
+contribuer à la valorisation du potentiel industriel du Nord-Pas de Calais,
+de ses entreprises, de ses agents économiques. Le passé de ses entre
+prises fait partie de la culture de notre région. La récente publication
+de l'histoire de la Redoute a montré l'intérêt, dans la région et au
+delà, pour l'histoire d'entreprises du Nord-Pas de Calais.
+- 79 -
+Le centre d'histoire des entreprises du Nord-Pas de Calais veut aider
+à cette meilleure connaissance d'un patrimoine du Nord-Pas de Calais,
+ainsi qu'à la promotion de la région au travers d'une diffusion extra
+régionale de cette histoire.
+Projets et objectifs
+1 - Création d'une c0llection d'histoires d'entreprises du Nord-Pas de Calais.
+L'objectif est de publier dans un premier temps 2 monographies par an,
+2 - Développement de projets scientifiques.
+- Etude du rôle des banques locales et régionales
+- Comparaison des entreprises de la laine à Roubaix-Tourcoing et à
+Fourmies
+- L'évolution des Brasseries
+- L'industrie du Lin
+- Les entreprises du Nord-Pas de Calais en 1844.
+3 - Contribution à la constitution d'un fonds sur la démographie des
+entreprises et exploitation scientifique.
+4 - Au delà de la publication des travaux selon les modalités habituelles
+aux équipes, un bulletin d'histoire des entreprises du Nord de la
+France sera édité.
+5 - De la même façon, le centre se propose de préparer des journées
+d'histoire de l'entreprise tant nationales qu'internationales.
+Calendrier
+Septembre 1986 Lancement du centre
+Janvier 1987 Lancement du Bulletin
+Janvier 1987 Publication des premières monographies
+Mai 1987 Première journée d'histoire de l'entreprise.
+- 80 -
+Institutions et organismes impliqués
+1) Equipes CNRS UA 936, UA 1020
+- Universités de Lille I, Lille III, Valenciennes
+I.F.R.E.S.I.
+Archives départementales du Nord et du Pas de Calais, Archives
+Municipales de Tourcoing, Centre historique minier de Lewarde,
+Ecomusée de Fourmies - Trélon.
+- Centre inter-régional des archives du Monde du Travail (Motte-Bossut)
+- GRIT
+CISE
+Organisations syndicales
+Chambres de Commerce
+CIRSH
+FNEGE
+2) Comité d'orientation.
+un comité d'orientation sera constitué pour favoriser l'insertion
+régionale nationale et internationale du centre.
+3) Collaborations sollicitées.
+Business History Unit (London School of Economies).
+Université de Lausanne (Jecquier)
+Financements en cours de négociation.
+- 81 -
+9. PROJET DE CONSTITUTION D1UNE BANQUE DE DONNEES SUR LES
+INGENIEURS
+Equipes françaises
+- UA 04 1020 LILLE III/CNRS : Albert BRODER
+- CRIT CNRS : Alain de GENNES
+- LAS MAS CNRS : André GRELON Annie TERRIER
+Equipes et collaborations étrangères
+- Université de Lancaster
+- Musée des Sciences et Techniques de La Villette
+- Professeur Robert FOX (Histoire des Sciences)
+- Docteur Anna GUAGNANI
+Origine du projet
+Les différentes recherches et études qui se font jour depuis ces derniè
+res années sur le groupe socio-professionnel des ingénieurs, ont mis en
+évidence la difficulté d'obtenir des données de toute nature sur cette
+population : qu'elles soient d'ordre statistique ou législatif, qu'elles
+concernent l'évolution des cursus dans les établissements d'enseignement
+ou l'implantation des ingénieurs dans telle branche industrielle, qu'elles
+touchent à l'histoire ou au monde contemporain, les informations sont le
+plus souvent dispersées, lacunaires, quand elles ne sont pas tout simplement
+inacessibles. L'extrème dissémination de l'appareil de formation sur tout
+le territoire national, l'intérêt fort restreint pour les questions d'archi
+vage, jusqu'à une date récente, aussi bien dans les écoles que dans des
+- 82 -
+associations d'ingénieurs, la prise en compte relativement nouvelle par
+les chercheurs historiens, sociologues et économistes, de l'importance
+des ingénieurs dans l'histoire industrielle et le développement écono
+mique du pays, sont sans doute quelques uns des motifs d'explication
+de ce facheux état de fait.
+Par ailleurs, on constate une prise de conscience croissante chez
+les ingénieurs, qui se manifeste tout particulièrement chez les respon
+sables de leurs diverses organisations représentatives, de la nécessité
+qu'ils ont de connaître -et donc de constituer- leur propre histoire,
+de mesurer la part qu'ils prennent dans tous les secteurs de l'économie,
+à un moment où la nécessaire multiplication des formations d'ingénieurs
+dans des spécialités nouvelles comme le bouleversement actuel des tâches
+d'encadrement dans les entreprises, les contraint à se construire une
+identité nouvelle.
+Enfin, il faut noter que les responsables qui, au niveau national ou
+régional, ont à prendre des décisions de caractère économique engageant
+l'avenir, les analystes qui doivent construire des modèles prévisionnels
+fiables pour déterminer les potentialités en ressources humaines sont
+à la recherche d'informations vérifiées; constituées en séries ou distri
+buées sur des périodes larges, sur lesquelles ils puissent fonder des
+raisonnements plausibles.
+Buts
+Il s'agit de constituer une banque de données sur les ingénieurs,
+regroupant des informations de types divers, statistiques, textuelles,
+bibliographies, chronologiques, etc ••• et dont les buts seront :
+- rendre accessible les données disponibles dispersées concernant les
+ingénieurs, leurs formations, les débouchés de leurs formations, les
+places qu'ils occupent dans les secteurs de l'économie, leurs associations,
+etc •••
+- 83 -
+- susciter des travaux pour retrouver les données disparues ou cachées et
+les intégrer progressivement à la banque, pour obtenir des séries complètes
+tant sur un plan diachronique que synchronique.
+constituer peu à peu la mémoire collective des ingénieurs, de leurs
+établissements d'enseignement et de leurs organismes.
+Population analysée
+Par ingénieurs, nous entendons les ingénieurs diplômés tels qu'ils
+sont définis dans le cadre de la Loi du 10 Juillet 1934. Les établissements
+d'enseignement pris en compte seront ceux qui ont une fonction diplômante
+reconnue par la Commission des Titres d'Ingénieurs. En précisant ainsi la
+population et en déterminant ses limites, nous sommes conscients que
+nous ne recouvrons pas le champ entier de ce que, dans divers lieux, on
+entend sous la dénomination générale d'ingénieur. Mais l'appellation
+employée dans les entreprises, par exemple, correspond à un usage beaucoup
+plus large et polysémique que la seule référence aux multitudes de fonctions
+qui peuvent être tenues ou non par des ingénieurs diplômés. Bien sûr,
+si le terme se rapportait à chaque fois à une tâche de responsabilité,
+faisant appel à une compétence affirmée dans divers domaines scientifiques
+ou technico-scientifiques et nécessitant de ce fait une haute qualification,
+généralement sanctionnée par un diplôme dans la spécialité désignée ou
+reconnue après des années d'expérience et de perfectionnement personnel,
+on retrouverait peu ou prou la population que nous cherchons à cerner.
+Mais lorsque le mot désigne moins une fonction qu'un grade dans une hiérar
+chie, ceux qui se situent en amont ou en aval ne sont plus repérables.
+Enfin, -rançon du succès ?- on assiste dans le langage courant à une dérive
+sémantique du terme qui tend à en faire une notion attrape-tout.
+Or, pour être réellement opérationnelle, la banque se doit de donner
+des caractéristiques strictes aux individus à propos desquels sera effec
+tuée l'entreprise de collectes des données. En nous en tenant à la défini
+tion de l'ingénieur selon la Loi de 1934, nous prenons là une acceptation
+reconnue et valide, c'est-à-dire qui nous donne les conditions requises
+- 84 -
+pour constituer un ensemble fini permettant de bien spécifier la nature
+des informations à rassembler.
+Contenu
+Quel devra être le contenu de la banque ? Dans l'état actuel des choses,
+nous voyons cinq domaines dans lesquels, en procédant par entrées succes
+sives, on pourrait constituer des dossiers élaborés et fiables.
+1/ Données concernant les écoles, soit : d'une part, des informations sur
+les élèves, flux d'entrée et sortie (dans les différentes spécialités),
+origine géographique, origine socio-professionnelle, etc .•. ; d'autre
+part, les caractéristiques des établissements (nombre et types de
+professeurs, programme d'enseignement, activités de recherche, etc ••. ).
+2/ Données textuelles législatives et réglementaires, avec dates et
+indications des décrets et arrêtés sur les établissements, depuis
+l'origine jusqu'à nos jours.
+3/ Associations d'ingénieurs : anciens élèves, syndicats d'ingénieurs,
+groupements scientifiques, etc •.• dates de création, activités, nombre
+de membres, etc •.•
+4/ Implantation des ingénieurs dans les diverses branches de l'économie :
+premier poste à la sortie de l'école, fonctions occupées dans les entre
+prises, part dans l'innovation (prise de brevet, par exemple), etc •••
+5/ Bibliographie sur les ingénieurs : ouvrages généraux, références plus
+spécifiques pouvant constituer une base bibliographique par école et
+par corps, exploitation de fonds d'archives existant comme ceux de la
+Bibliothèque des Ingénieurs Civils de France.
+Par la suite, d'autres éléments pourraient être intégrés comme, par
+exemple, les prévisions de besoins en ingénieurs de diverses catégories
+- 85 -
+par les syndicats patronaux professionnels de branche, l'évolution du
+rapport entre les besoins programmés (par les services du Plan ou les
+organismes économiques) et la production effective d'ingénieurs, etc ••. ).
+Mise en place
+Pour constituer cette banque, il nous paraît d'abord nécessaire
+d'organiser un réseau qui devrait comporter plusieurs types de membres
+institutionnels. Nous en avons recensé cinq, dont les activités ou les
+intérêts touchent en partie ou en totalité à la question. Il est clair
+toutefois que la liste que nous donnons, ne prétend nullement à l'exhaus
+tivité.
+a) des organismes de recherche et d'études
+• Le Centre National de la Recherche Scientifique, par une série de
+Laboratoires Propres ou Associés (Centre de Recherches Inter-disci
+plinaires sur les Transformations Sociales, Institut d'Histoire du
+Temps Présent, Institut d'Histoire Moderne et Contemporaine, Labora
+toire d'Economie et de Sociologie du Travail, Groupe de Sociologie
+du Travail, Laboratoire d'Analyses Secondaires et des Méthodes
+Appliquées en Sociologie, etc .•• ).
+• L'Ecole des Hautes Etudes en Sciences Sociales (Centre de Recherche
+et d'Histoire des Sciences et Techniques, Groupe d'Etudes et
+Recherches sur la Science, etc ••• ).
+• Des centres universitaires (Centre d'Etudes des Croissances de
+l'Université Paris X, Groupe d'Etudes et Recherches sur la Science
+de l'Université Louis Pasteur de Strasbourg ••• ).
+• Le Centre d'Etudes et Recherches sur les Qualifications (CEREQ).
+• La Fondation Nationale des Sciences Politiques.
+• Le Musée des Sciences, des Techniques et des Industries de la Villette.
+- 86 -
+b) les responsables de la politique de formation des ingénieurs
+c) ~=:-~:~~~~::=~=~::_~~=~:=~~~=~=~: préparant à des diplômes d'ingénieurs
+et leurs centres de recherche (ex : Centre de Recherche Travail et
+Société de l'Ecole Nationale des Ponts & Chaussées, Centre de Sociologie
+de l'Innovation de l'Ecole des Mines de Paris ..• ).
+d) les organisations et associations d'ingénieurs
+e) les Administrations concernées (Education Nationale, Recherche, Plan
+Industrie).
+Premiers travaux préparatoires
+La banque de données Ingénieurs aura comme particularité d'avoir des
+sources extrèmement dispersées et réparties sur l'ensemble du territoire
+national ; ainsi le système de formation des ingénieurs comporte-t-il
+164 établissements habilités et les autres domaines que la banque se
+propose de traiter ont à peu près tous les mêmes caractéristiques (données
+bibliographiques, insertion dans le monde du travail, associations d'ingé
+nieurs, etc ••• ). Nous nous sommes donc penchés sur la question de la consti
+tution d'un réseau et de son mode de fonctionnement. A ce titre, nous avons
+été examiner la Banque de Données Socio-Politiques (BDSP), GRECO àu CNRS
+qui, tant par ses finalités (vocation à rassembler des données sur un
+plan national et régional, importance de la fonction recherche), par ses
+dimensions que par son type d'organisation coopérative (réseau de plusieurs
+équipes propres au CNRS ou associées) paraissait être un bon exemple de
+réalisation dans le champ des sciences sociales. En particulier, cette
+banque a un mode tout-à-fait intéressant d'acquisition, de traitement et
+de diffusion des données, ses promoteurs ont organisé un véritable courant
+de recherche autour des activités de la BDSP, par une coordination efficace
+en amont de la banque, en suscitant des enquêtes et en aval, par une
+réflexion sur l'exploitation des données qui peut prendre la forme de
+séminaires de recherche, d'aide à des thèses, etc ••• Les responsables sont
+susceptibles de nous apporter des conseils techniques sur le plan du
+- 87 -
+traitement statistique et informatique des données sur les ingénieurs.
+Par ailleurs, nous avons établi un contact à l'Isle-d'Abeau avec le
+SUNIST, Serveur Universitaire National pour l'Information Scientifique
+et Technique, pour examiner les possibilités qu'il offrirait dans la
+mise en place du réseau national. Ce serveur propose, à l'égal d'autres
+serveurs, toute un série de prestations. Un de ses avantages tient au
+fait qu'il pratique des tarifications très compétitives pour les univer
+sitaires et les chercheurs. En outre, bien que de création récente, il est
+habitué de par sa spécificité, à traiter le type de problèmes que nous
+pourrions lui soumettre : le SUNIST gère actuellement la banque THESA qui
+fait le recensement des thèses en cours dans les écoles d'ingénieurs, ainsi
+que TRAVEL qui rassemble des données sur les mémoires d'ingénieurs terminés
+ces deux banques, créées à l'initiative de la Conférence des Grandes
+Ecoles et de quelques établissements de formation d'ingénieurs, sont en
+cours de constitution. Une troisième dans le même domaine fournira les
+données recueillies par le Bureau d1Ingéniérie Pédagogique, sur les expé
+riences pédagogiques dans l'enseignement supérieur : une maquette est en
+cours de réalisation par les ingénieurs du SUNIST. Dans l'hypothèse où
+notre banque utiliserait ce serveur, on pourrait étudier avec les promoteurs
+des autres banques, le principe d'interconnexions.
+Vers une première expérimentation
+Un projet aussi complexe que la banque de données Ingénieurs ne peut
+se mettre en place que progressivement, après une série de tests et d'études
+focalisées. De plus, il faul tenir compte des besoins perçus par les utili
+sateurs potentiels (la réunion du 12 Mars avait permis d'en dresser une
+première liste) et des conditions réelles de repérage des données et de
+leur mise en mémoire. Pour sérier les questions, nous nous proposons dans
+un premier temps, d'axer nos travaux sur la constitution de données liées
+aux formations d'ingénieurs, en y incluant les relations avec les milieux
+professionnels qui recrutent dans les promotions, à la sortie des établis
+sements. Pour pouvoir analyser le phénomène de façon cohérente, mais
+limitée, dans cette phase initiale, nous envisageons de faire un essai de
+- 88 -
+mise en oeuvre dans une ou deux régions qui serviraient de "pilotes".
+Des contacts positifs sont d'ores et déjà pris, qui devraient se concré
+tiser à la prochaine rentrée universitaire et un contrat de préfiguration
+va être sollicité en ce sens. Ce procédé permettrait de sensibiliser plus
+aisément et d'une façon non artificielle les directions des établissements
+et leurs équipes pédagogiques, les groupements régionaux d'ingénieurs,
+les milieux économiques, les responsables régionaux, ainsi que les cher
+cheurs et universitaires. Sur cette base devrait se rassembler avec l'équipe
+initiale, un groupe de travail chargé d'élaborer un plan d'enquête et de
+recueil des données et qui suivrait la constitution du réseau régional.
+A l'issue de cette première expérimentation, un bilan devrait être tiré,
+recensant les difficultés rencontrées, et les points acquis quant au
+fonctionnement du programme, les satisfactions, critiques et souhaits des
+utilisateurs, les développements escomptés pour la recherche. Sur cette
+base, une mise en place plus large géographiquement et thématiquement
+pourrait alors être proposée.
+Financement
+Les moyens financiers ne sont pas encore déterminés ; pour autant ils
+comporteront des crédits de vacations (constitution de fichiers, traite
+ment informatique des données).
+Des financements sont d'ores et déjà prévus
+- de la part du M.E.N. {50 000 F pour 1985-1986)
+- de la part de la Fondation Européenne de la Science (en cours de
+demande) ;
+- de la part des équipes impliquées
+Financements complémentaires en cours de négocation.
+- 89 -
+10. CREATION D'UN GROUPE DE RECHERCHE "LIAISON FIXE TRANSMANCHE"
+Opération en cours de montage
+Objectif
+Regrouper les capacités de recherche disponibles pour l'étude pluri
+disciplinaire des dimensions économiques, sociales, juridiques, politiques
+culturelles de la réalisation de la liaison fixe Transmanche, et de ses
+implications au niveau des espaces régionaux, nationaux et européen,
+Equipes actuellement impliquées
+Les chercheurs qui constituent le premier noyau de ce regroupement
+appartiennent aux formations suivantes :
+- CRAPS (UA 982, CNRS/LILLE II)
+- Economie de la Firme (UA 936, CNRS/LILLE I)
+- Laboratoire de Géographie Humaine (LILLE I)
+- LAST-CLERSE (UA 345, CNRS/LILLE I)
+- LE PUR (Lab or at:Jire d'Economie Pub liq ue et Régionale, LILLE I)
+Coopérations (état provisoire)
+- Université du Kent (Canterbury)
+- Institut International de Sciences sur les Systèmes Appliqués (I.A.A.)
+Organismes impliqués
+- Conseil Régional du Nord-Pas de Calais
+- Négociation avec les divers acteurs et partenaires.
