@@ -12,11 +12,16 @@ from sklearn.cluster import KMeans
 # ---------------------------- CONFIGURATION --------------------------------
 SPACY_MODEL = "fr_core_news_sm"
 DATA_DIR = "data/"
-OUTPUT_FILE = "data_analysis/clustering_results.csv"
+OUTPUT_DIR = "data_analysis/"
+OUTPUT_FILE = os.path.join(OUTPUT_DIR, "clustering_results.csv")
+OUTPUT_IMAGE = os.path.join(OUTPUT_DIR, "clustering_visualization.png")
 NUM_CLUSTERS = 5  # Ajustable selon la taille du corpus
 TSNE_PERPLEXITY = 5  # Valeur minimale pour éviter les erreurs
 TSNE_ITERATIONS = 300
 TFIDF_MAX_FEATURES = 1000
+
+# Création du dossier de sortie si nécessaire
+os.makedirs(OUTPUT_DIR, exist_ok=True)
 
 
 # ---------------------------- CHARGEMENT DU MODÈLE SPACY -------------------
@@ -104,9 +109,9 @@ def reduce_dimensions(X: np.ndarray, perplexity: int, iterations: int) -> np.nda
 X_2d = reduce_dimensions(X, TSNE_PERPLEXITY, TSNE_ITERATIONS)
 
 
-# ---------------------------- VISUALISATION DES CLUSTERS -------------------
-def plot_clusters(X_2d: np.ndarray, clusters: np.ndarray, corpus: Dict[str, str], num_clusters: int):
-    """Affiche la visualisation des clusters en 2D avec t-SNE."""
+# ---------------------------- VISUALISATION ET ENREGISTREMENT --------------
+def plot_clusters(X_2d: np.ndarray, clusters: np.ndarray, corpus: Dict[str, str], num_clusters: int, save_path: str):
+    """Affiche et enregistre la visualisation des clusters en 2D avec t-SNE."""
     colors = plt.colormaps["tab10"]
 
     plt.figure(figsize=(12, 8))
@@ -125,10 +130,14 @@ def plot_clusters(X_2d: np.ndarray, clusters: np.ndarray, corpus: Dict[str, str]
     plt.xlabel("Composante 1")
     plt.ylabel("Composante 2")
     plt.legend()
-    plt.show()
+
+    # Enregistrement de la figure
+    plt.savefig(save_path, format="png", dpi=300)
+    print(f"📊 Graphe enregistré sous '{save_path}'")
+    plt.close()
 
 
-plot_clusters(X_2d, clusters, corpus, NUM_CLUSTERS)
+plot_clusters(X_2d, clusters, corpus, NUM_CLUSTERS, OUTPUT_IMAGE)
 
 
 # ---------------------------- ENREGISTREMENT DES RÉSULTATS -----------------
